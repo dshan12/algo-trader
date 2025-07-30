@@ -29,5 +29,5 @@ jobs:
 
       - name: Run end‑of‑day live trade
         run: |
-          python src/live_trade.py
+          python -m src.live_trade
 
