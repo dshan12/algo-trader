@@ -1,7 +1,17 @@
 [project]
 name = "algo-trader"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+description = "Turtle Trading algo, paper traded via Alpaca with GitHub logging"
+requires-python = ">=3.8"
+dependencies = [
+    "alpaca-trade-api>=3.2.0",
+    "backtrader>=1.9.78.123",
+    "pandas>=2.0.3",
+    "pygithub>=2.6.1",
+    "yfinance>=0.2.58",
+]
+
+[build-system]
+requires = ["setuptools","wheel"]
+build-backend = "setuptools.build_meta"
+
