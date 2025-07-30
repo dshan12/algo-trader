@@ -170,5 +170,15 @@
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (2.59%), short.",
       "Low Volatility: WMT is in the lowest decile of 60\u2011day vol (0.94%)."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:27:11.815317",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 20,
+    "price": 143.62,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-1.47%), long."
+    ]
   }
 ]
