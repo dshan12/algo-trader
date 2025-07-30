@@ -128,5 +128,16 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (3.90%), short."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:26:51.308062",
+    "symbol": "ORCL",
+    "side": "sell",
+    "qty": 69,
+    "price": 248.71,
+    "reason": [
+      "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (4.99%), short.",
+      "Pairs Trading: ORCL/CRM spread z\u2011score=2.87, short CRM."
+    ]
   }
 ]
