@@ -139,5 +139,15 @@
       "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (4.99%), short.",
       "Pairs Trading: ORCL/CRM spread z\u2011score=2.87, short CRM."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:26:56.580647",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 18,
+    "price": 154.92,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (4.66%), short."
+    ]
   }
 ]
