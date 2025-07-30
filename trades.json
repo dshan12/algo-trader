@@ -200,5 +200,15 @@
     "reason": [
       "Pairs Trading: ORCL/CRM spread z\u2011score=2.87, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:27:27.724707",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 142,
+    "price": 20.255,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-12.18%), long."
+    ]
   }
 ]
