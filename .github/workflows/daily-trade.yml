@@ -12,7 +12,7 @@ jobs:
     env:
       ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
       ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
-      GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+      PAT: ${{ secrets.PAT }}
 
     steps:
       - name: Checkout code
