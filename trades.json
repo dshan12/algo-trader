@@ -22,5 +22,13 @@
     "qty": 1,
     "price": 0.01,
     "reason": "\ud83d\ude80 Testing commit_trade function"
+  },
+  {
+    "timestamp": "2025-07-30T17:12:53.781045",
+    "symbol": "TEST",
+    "side": "buy",
+    "qty": 1,
+    "price": 0.01,
+    "reason": "\ud83d\ude80 Testing commit_trade function"
   }
 ]
