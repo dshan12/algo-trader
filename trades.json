@@ -220,5 +220,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-6.92%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:27:37.252721",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 2,
+    "price": 1174.09,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-1.79%), long."
+    ]
   }
 ]
