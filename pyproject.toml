@@ -8,6 +8,7 @@ dependencies = [
     "backtrader>=1.9.78.123",
     "pandas>=2.0.3",
     "pygithub>=2.6.1",
+    "python-dotenv>=1.0.1",
     "yfinance>=0.2.58",
 ]
 
