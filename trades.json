@@ -210,5 +210,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-12.18%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:27:32.318891",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 87,
+    "price": 32.92,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-6.92%), long."
+    ]
   }
 ]
