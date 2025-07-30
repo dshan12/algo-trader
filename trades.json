@@ -230,5 +230,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-1.79%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T18:02:36.254453",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 266.19,
+    "reason": [
+      "Pairs Trading: ORCL/CRM spread z\u2011score=2.87, long ORCL."
+    ]
   }
 ]
