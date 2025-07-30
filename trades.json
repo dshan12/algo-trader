@@ -68,5 +68,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.92%), short."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:26:21.658483",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 11,
+    "price": 262.19,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-8.44%), long."
+    ]
   }
 ]
