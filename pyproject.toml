@@ -9,6 +9,7 @@ dependencies = [
     "pandas>=2.0.3",
     "pygithub>=2.6.1",
     "python-dotenv>=1.0.1",
+    "statsmodels>=0.14.1",
     "yfinance>=0.2.58",
 ]
 
