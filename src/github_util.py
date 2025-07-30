@@ -4,11 +4,11 @@ import os
 import json
 from pathlib import Path
 
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from github import Github, GithubException
 
 # ─── Load .env ────────────────────────────────────────────────────────────────
-load_dotenv(dotenv_path=Path(__file__).parents[1] / ".env")
+# load_dotenv(dotenv_path=Path(__file__).parents[1] / ".env")
 GITHUB_PAT = os.getenv("PAT")
 REPO_NAME = "dshan12/algo-trader"
 if not GITHUB_PAT:

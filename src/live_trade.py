@@ -7,7 +7,7 @@ from datetime import datetime, date, timedelta
 from pathlib import Path
 
 import pandas as pd
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Alpaca REST client (only used when DRY_RUN is False)
 from alpaca_trade_api.rest import REST
@@ -30,7 +30,7 @@ from src.github_util import commit_trade
 DRY_RUN = False
 
 # Load Alpaca creds from .env (won’t be used in dry‑run)
-load_dotenv(dotenv_path=Path(__file__).parents[1] / ".env")
+# load_dotenv(dotenv_path=Path(__file__).parents[1] / ".env")
 ALPACA_KEY = os.getenv("ALPACA_API_KEY")
 ALPACA_SECRET = os.getenv("ALPACA_API_SECRET")
 BASE_URL = "https://paper-api.alpaca.markets"
