@@ -3,7 +3,7 @@ name: 🕒 Daily EOD Trading
 # run on weekdays at 21:05 UTC (≈ 17:05 ET, right after NYSE close)
 on:
   schedule:
-    - cron: '05 21 * * 1-5'
+    - cron: '05 21 * * 0-4'
   workflow_dispatch:             # allows manual “Run workflow” from the UI
 
 jobs:
