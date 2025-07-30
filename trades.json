@@ -190,5 +190,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (2.20%), short."
     ]
+  },
+  {
+    "timestamp": "2025-07-30T17:27:23.096825",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 53,
+    "price": 267.32,
+    "reason": [
+      "Pairs Trading: ORCL/CRM spread z\u2011score=2.87, long ORCL."
+    ]
   }
 ]
