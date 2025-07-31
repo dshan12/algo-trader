@@ -524,5 +524,15 @@
     "reason": [
       "Pairs Trading: ORCL/CRM spread z\u2011score=2.91, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T21:28:48.945078",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 3,
+    "price": 33.24,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-9.19%), long."
+    ]
   }
 ]
