@@ -494,5 +494,15 @@
     "qty": 2,
     "price": 1183.86,
     "reason": []
+  },
+  {
+    "timestamp": "2025-07-31T21:28:38.085627",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 1,
+    "price": 178.06,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.97%), short."
+    ]
   }
 ]
