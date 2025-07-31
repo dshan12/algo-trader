@@ -271,5 +271,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (3.31%), short."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T12:46:14.493919",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 2,
+    "price": 196.84,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (3.10%), short."
+    ]
   }
 ]
