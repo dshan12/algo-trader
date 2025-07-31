@@ -504,5 +504,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.97%), short."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T21:28:41.620662",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 2,
+    "price": 78.16,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-2.66%), long."
+    ]
   }
 ]
