@@ -341,5 +341,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-3.41%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T12:46:45.634847",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 3,
+    "price": 119.55,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-2.77%), long."
+    ]
   }
 ]
