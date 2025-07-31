@@ -514,5 +514,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-2.66%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T21:28:45.340286",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 258.45,
+    "reason": [
+      "Pairs Trading: ORCL/CRM spread z\u2011score=2.91, long ORCL."
+    ]
   }
 ]
