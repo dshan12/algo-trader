@@ -311,5 +311,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-4.07%), long."
     ]
+  },
+  {
+    "timestamp": "2025-07-31T12:46:32.239840",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 1,
+    "price": 299.81,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (0.97%), short."
+    ]
   }
 ]
