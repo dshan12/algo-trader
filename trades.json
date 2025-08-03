@@ -632,5 +632,13 @@
     "qty": 27,
     "price": 116.58,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-03T21:28:29.442061",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 29,
+    "price": 109.61,
+    "reason": []
   }
 ]
