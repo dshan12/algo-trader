@@ -534,5 +534,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-9.19%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:27:40.325161",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 15,
+    "price": 214.855,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-7.21%), long."
+    ]
   }
 ]
