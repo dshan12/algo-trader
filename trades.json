@@ -651,5 +651,15 @@
       "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (-0.29%), short.",
       "Pairs Trading: ORCL/CRM spread z\u2011score=3.02, short CRM."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:28:38.235700",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 3,
+    "price": 952.59,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 best 1\u2011week performers (1.82%), short."
+    ]
   }
 ]
