@@ -614,5 +614,15 @@
     "qty": 21,
     "price": 150.65,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-03T21:28:20.578678",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 70,
+    "price": 45.64,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.76%), long."
+    ]
   }
 ]
