@@ -560,5 +560,13 @@
     "qty": 16,
     "price": 190.0,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-03T21:27:53.980149",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 10,
+    "price": 302.68,
+    "reason": []
   }
 ]
