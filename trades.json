@@ -661,5 +661,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 best 1\u2011week performers (1.82%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:28:42.595024",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 16,
+    "price": 195.22,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (2.60%), short."
+    ]
   }
 ]
