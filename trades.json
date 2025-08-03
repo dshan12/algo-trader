@@ -624,5 +624,13 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.76%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:28:25.055686",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 27,
+    "price": 116.58,
+    "reason": []
   }
 ]
