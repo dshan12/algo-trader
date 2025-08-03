@@ -692,5 +692,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-6.71%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:28:55.756015",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 9,
+    "price": 347.7,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-6.19%), long."
+    ]
   }
 ]
