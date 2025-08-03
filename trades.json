@@ -596,5 +596,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-15.40%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-03T21:28:11.877607",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 8,
+    "price": 373.7,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 best 1\u2011week performers (-0.45%), short."
+    ]
   }
 ]
