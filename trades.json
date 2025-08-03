@@ -576,5 +576,15 @@
     "qty": 10,
     "price": 289.21,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-03T21:28:02.961173",
+    "symbol": "V",
+    "side": "buy",
+    "qty": 9,
+    "price": 339.22,
+    "reason": [
+      "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-4.95%), long."
+    ]
   }
 ]
