@@ -710,5 +710,16 @@
     "qty": 98,
     "price": 32.52,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-04T21:29:39.279889",
+    "symbol": "ORCL",
+    "side": "buy",
+    "qty": 2,
+    "price": 252.49,
+    "reason": [
+      "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (-0.29%), short.",
+      "Pairs Trading: ORCL/CRM spread z\u2011score=3.02, short CRM."
+    ]
   }
 ]
