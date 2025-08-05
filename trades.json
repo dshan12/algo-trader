@@ -807,5 +807,15 @@
       "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (1.95%), short.",
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.79, short INTC."
     ]
+  },
+  {
+    "timestamp": "2025-08-05T21:29:58.110970",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 12,
+    "price": 247.3,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.63%), long."
+    ]
   }
 ]
