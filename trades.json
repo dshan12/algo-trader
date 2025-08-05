@@ -732,5 +732,15 @@
       "Weekly Reversal: MCD was among the 10 best 1\u2011week performers (1.48%), short.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.96%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-05T21:29:25.831319",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 10,
+    "price": 308.635,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-5.02%), long."
+    ]
   }
 ]
