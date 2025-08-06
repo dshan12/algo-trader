@@ -896,5 +896,15 @@
     "qty": 13,
     "price": 245.84,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-06T21:27:40.793687",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 6,
+    "price": 386.72,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 best 1\u2011week performers (2.14%), short."
+    ]
   }
 ]
