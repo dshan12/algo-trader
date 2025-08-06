@@ -995,5 +995,15 @@
     "reason": [
       "Weekly Reversal: T was among the 10 best 1\u2011week performers (1.31%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:28:16.796479",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 6,
+    "price": 307.515,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.97%)."
+    ]
   }
 ]
