@@ -1033,5 +1033,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (3.83%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:28:31.440756",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 1,
+    "price": 249.16,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.44%), long."
+    ]
   }
 ]
