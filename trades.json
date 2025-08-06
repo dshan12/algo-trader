@@ -1063,5 +1063,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 best 1\u2011week performers (2.09%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:28:42.227070",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 1,
+    "price": 345.52,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-8.62%), long."
+    ]
   }
 ]
