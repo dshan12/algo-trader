@@ -828,5 +828,15 @@
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-5.71%), long.",
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.79, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:27:15.244502",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 2,
+    "price": 213.275,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-3.95%), long."
+    ]
   }
 ]
