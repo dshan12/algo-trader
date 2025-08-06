@@ -1053,5 +1053,15 @@
     "reason": [
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.82, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:28:38.688218",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 4,
+    "price": 130.96,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 best 1\u2011week performers (2.09%), short."
+    ]
   }
 ]
