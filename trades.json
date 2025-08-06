@@ -916,5 +916,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-3.90%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:27:47.831996",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 10,
+    "price": 45.44,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-4.98%), long."
+    ]
   }
 ]
