@@ -1043,5 +1043,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.44%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:28:35.081819",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 293,
+    "price": 20.36,
+    "reason": [
+      "Pairs Trading: ORCL/INTC spread z\u2011score=2.82, long ORCL."
+    ]
   }
 ]
