@@ -868,5 +868,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-3.89%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:27:29.933654",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 2,
+    "price": 170.61,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (1.56%), short."
+    ]
   }
 ]
