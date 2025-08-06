@@ -858,5 +858,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (1.57%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-06T21:27:26.370674",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 1,
+    "price": 320.35,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-3.89%), long."
+    ]
   }
 ]
