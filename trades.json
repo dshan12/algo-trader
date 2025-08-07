@@ -1150,5 +1150,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.04%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-07T21:28:05.405726",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 3,
+    "price": 44.93,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-5.30%), long."
+    ]
   }
 ]
