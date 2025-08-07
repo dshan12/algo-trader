@@ -1188,5 +1188,15 @@
     "qty": 112,
     "price": 24.24,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-07T21:28:20.343541",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 3,
+    "price": 70.47,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.97%)."
+    ]
   }
 ]
