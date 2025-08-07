@@ -1227,5 +1227,13 @@
       "Weekly Reversal: ORCL was among the 10 best 1\u2011week performers (2.33%), short.",
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.80, short INTC."
     ]
+  },
+  {
+    "timestamp": "2025-08-07T21:28:35.289894",
+    "symbol": "T",
+    "side": "buy",
+    "qty": 98,
+    "price": 28.08,
+    "reason": []
   }
 ]
