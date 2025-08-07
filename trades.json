@@ -1170,5 +1170,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-3.66%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-07T21:28:12.691143",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 1,
+    "price": 105.94,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-4.82%), long."
+    ]
   }
 ]
