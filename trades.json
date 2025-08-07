@@ -1253,5 +1253,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 best 1\u2011week performers (4.43%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-07T21:28:46.503971",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 54,
+    "price": 19.8,
+    "reason": [
+      "Pairs Trading: ORCL/INTC spread z\u2011score=2.80, long ORCL."
+    ]
   }
 ]
