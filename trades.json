@@ -1198,5 +1198,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-07T21:28:24.265029",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 35,
+    "price": 80.38,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-2.83%), long."
+    ]
   }
 ]
