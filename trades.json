@@ -1378,5 +1378,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (4.35%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-08T19:06:52.023069",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 42,
+    "price": 19.955,
+    "reason": [
+      "Pairs Trading: ORCL/INTC spread z\u2011score=2.59, long ORCL."
+    ]
   }
 ]
