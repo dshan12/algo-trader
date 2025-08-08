@@ -1282,5 +1282,15 @@
     "qty": 4,
     "price": 768.5,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-08T19:06:01.433405",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 8,
+    "price": 329.875,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (4.54%), short."
+    ]
   }
 ]
