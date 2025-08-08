@@ -1358,5 +1358,15 @@
     "qty": 35,
     "price": 80.74,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-08T19:06:37.747879",
+    "symbol": "ORCL",
+    "side": "buy",
+    "qty": 14,
+    "price": 249.69,
+    "reason": [
+      "Pairs Trading: ORCL/INTC spread z\u2011score=2.59, short INTC."
+    ]
   }
 ]
