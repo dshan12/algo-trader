@@ -1263,5 +1263,16 @@
     "reason": [
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.80, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-08-08T19:05:52.314116",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 9,
+    "price": 522.55,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.37%), long.",
+      "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
