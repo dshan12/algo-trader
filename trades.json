@@ -1368,5 +1368,15 @@
     "reason": [
       "Pairs Trading: ORCL/INTC spread z\u2011score=2.59, short INTC."
     ]
+  },
+  {
+    "timestamp": "2025-08-08T19:06:47.484600",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 18,
+    "price": 145.14,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (4.35%), short."
+    ]
   }
 ]
