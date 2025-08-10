@@ -1542,5 +1542,15 @@
     "qty": 674,
     "price": 19.96,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-10T21:26:59.656709",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 62,
+    "price": 43.14,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (0.63%), long."
+    ]
   }
 ]
