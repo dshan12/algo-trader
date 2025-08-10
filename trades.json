@@ -1523,5 +1523,16 @@
     "qty": 14,
     "price": 198.02,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-10T21:26:50.875339",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 56,
+    "price": 240.44,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-4.08%), long.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.40, long GOOGL."
+    ]
   }
 ]
