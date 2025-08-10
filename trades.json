@@ -1437,5 +1437,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (6.39%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-10T21:26:05.638434",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 14,
+    "price": 182.755,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (5.17%), short."
+    ]
   }
 ]
