@@ -1499,5 +1499,13 @@
     "qty": 54,
     "price": 250.1,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-10T21:26:37.599939",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 2,
+    "price": 981.145,
+    "reason": []
   }
 ]
