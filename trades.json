@@ -1562,5 +1562,16 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-11T21:25:35.056721",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 2,
+    "price": 232.66,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-4.08%), long.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.40, long GOOGL."
+    ]
   }
 ]
