@@ -1645,5 +1645,15 @@
     "reason": [
       "Pairs Trading: ORCL/CVX spread z\u2011score=2.52, long ORCL."
     ]
+  },
+  {
+    "timestamp": "2025-08-12T21:27:25.386021",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 2,
+    "price": 991.32,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 best 1\u2011week performers (3.49%), short."
+    ]
   }
 ]
