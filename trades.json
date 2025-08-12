@@ -1617,5 +1617,13 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-1.35%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-12T21:27:13.910121",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 37,
+    "price": 71.38,
+    "reason": []
   }
 ]
