@@ -1635,5 +1635,15 @@
     "reason": [
       "Pairs Trading: ORCL/CVX spread z\u2011score=2.52, short CVX."
     ]
+  },
+  {
+    "timestamp": "2025-08-12T21:27:21.595097",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 87,
+    "price": 154.46,
+    "reason": [
+      "Pairs Trading: ORCL/CVX spread z\u2011score=2.52, long ORCL."
+    ]
   }
 ]
