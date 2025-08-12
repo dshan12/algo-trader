@@ -1607,5 +1607,15 @@
     "qty": 13,
     "price": 183.17,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-12T21:27:09.773417",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 789.8,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-1.35%), long."
+    ]
   }
 ]
