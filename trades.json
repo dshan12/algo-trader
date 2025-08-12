@@ -1625,5 +1625,15 @@
     "qty": 37,
     "price": 71.38,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-12T21:27:17.842582",
+    "symbol": "ORCL",
+    "side": "sell",
+    "qty": 53,
+    "price": 253.77,
+    "reason": [
+      "Pairs Trading: ORCL/CVX spread z\u2011score=2.52, short CVX."
+    ]
   }
 ]
