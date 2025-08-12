@@ -1599,5 +1599,13 @@
     "qty": 13,
     "price": 204.14,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-12T21:27:06.051347",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 13,
+    "price": 183.17,
+    "reason": []
   }
 ]
