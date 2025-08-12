@@ -1591,5 +1591,13 @@
     "qty": 80,
     "price": 203.34,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-12T21:27:02.266119",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 13,
+    "price": 204.14,
+    "reason": []
   }
 ]
