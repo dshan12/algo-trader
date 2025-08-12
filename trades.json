@@ -1693,5 +1693,13 @@
     "qty": 62,
     "price": 43.23,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-12T21:27:44.433207",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 20,
+    "price": 131.04,
+    "reason": []
   }
 ]
