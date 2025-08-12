@@ -1675,5 +1675,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.78%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-12T21:27:36.871728",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 123,
+    "price": 21.8,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (5.90%), short."
+    ]
   }
 ]
