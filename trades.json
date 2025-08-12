@@ -1665,5 +1665,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (3.80%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-12T21:27:32.981231",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 57,
+    "price": 231.655,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.78%), long."
+    ]
   }
 ]
