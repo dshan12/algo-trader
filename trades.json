@@ -1828,5 +1828,16 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (0.05%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-13T21:27:01.662809",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 56,
+    "price": 237.05,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.40%), long.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.70, long GOOGL."
+    ]
   }
 ]
