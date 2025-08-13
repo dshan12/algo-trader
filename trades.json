@@ -1766,5 +1766,13 @@
     "qty": 3,
     "price": 779.865,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:35.312984",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 9,
+    "price": 290.49,
+    "reason": []
   }
 ]
