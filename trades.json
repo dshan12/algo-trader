@@ -1810,5 +1810,13 @@
     "qty": 36,
     "price": 77.2,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:54.047642",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 87,
+    "price": 155.86,
+    "reason": []
   }
 ]
