@@ -1818,5 +1818,15 @@
     "qty": 87,
     "price": 155.86,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:57.902982",
+    "symbol": "ABBV",
+    "side": "buy",
+    "qty": 13,
+    "price": 201.435,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (0.05%), long."
+    ]
   }
 ]
