@@ -1758,5 +1758,13 @@
     "qty": 1,
     "price": 181.55,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:31.689672",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 779.865,
+    "reason": []
   }
 ]
