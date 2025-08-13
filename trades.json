@@ -1792,5 +1792,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-0.61%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-13T21:26:46.445701",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 39,
+    "price": 68.67,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (5.72%), short."
+    ]
   }
 ]
