@@ -1774,5 +1774,13 @@
     "qty": 9,
     "price": 290.49,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:38.988632",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 1,
+    "price": 271.86,
+    "reason": []
   }
 ]
