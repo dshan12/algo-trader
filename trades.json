@@ -1782,5 +1782,15 @@
     "qty": 1,
     "price": 271.86,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-13T21:26:42.744990",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 32,
+    "price": 82.7,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-0.61%), long."
+    ]
   }
 ]
