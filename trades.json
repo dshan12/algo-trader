@@ -1859,5 +1859,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (1.01%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:26:34.317043",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 13,
+    "price": 202.45,
+    "reason": [
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.45, short CRM."
+    ]
   }
 ]
