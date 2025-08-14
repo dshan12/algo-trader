@@ -1907,5 +1907,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 best 1\u2011week performers (5.27%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:26:52.866773",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 56,
+    "price": 47.69,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (4.01%), short."
+    ]
   }
 ]
