@@ -1839,5 +1839,15 @@
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.40%), long.",
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.70, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:26:26.869014",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 6,
+    "price": 522.425,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-0.83%), long."
+    ]
   }
 ]
