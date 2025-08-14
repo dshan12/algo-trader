@@ -2019,5 +2019,13 @@
     "qty": 8,
     "price": 348.7,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-14T21:27:36.795424",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 84,
+    "price": 32.88,
+    "reason": []
   }
 ]
