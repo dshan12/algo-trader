@@ -2001,5 +2001,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (8.87%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:27:29.484941",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 20,
+    "price": 129.32,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-1.17%), long."
+    ]
   }
 ]
