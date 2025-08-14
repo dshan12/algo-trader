@@ -1972,5 +1972,13 @@
     "qty": 2,
     "price": 975.57,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-14T21:27:18.325853",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 12,
+    "price": 204.74,
+    "reason": []
   }
 ]
