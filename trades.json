@@ -1954,5 +1954,15 @@
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-0.84%), long.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:27:11.001104",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 30,
+    "price": 100.84,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-2.29%), long."
+    ]
   }
 ]
