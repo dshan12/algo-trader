@@ -1877,5 +1877,15 @@
     "qty": 13,
     "price": 203.32,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-14T21:26:41.788402",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 9,
+    "price": 294.1,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 worst 1\u2011week performers (-0.28%), long."
+    ]
   }
 ]
