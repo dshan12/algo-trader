@@ -1869,5 +1869,13 @@
     "reason": [
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.45, short CRM."
     ]
+  },
+  {
+    "timestamp": "2025-08-14T21:26:38.167988",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 13,
+    "price": 203.32,
+    "reason": []
   }
 ]
