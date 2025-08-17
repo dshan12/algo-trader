@@ -2035,5 +2035,13 @@
     "qty": 2,
     "price": 1230.58,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-17T21:25:10.587364",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 13,
+    "price": 231.65,
+    "reason": []
   }
 ]
