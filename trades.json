@@ -2072,5 +2072,13 @@
     "qty": 9,
     "price": 290.53,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-17T21:25:25.383751",
+    "symbol": "V",
+    "side": "sell",
+    "qty": 8,
+    "price": 344.39,
+    "reason": []
   }
 ]
