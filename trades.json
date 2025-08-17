@@ -2064,5 +2064,13 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-1.23%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-17T21:25:21.703494",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 9,
+    "price": 290.53,
+    "reason": []
   }
 ]
