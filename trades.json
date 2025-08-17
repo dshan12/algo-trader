@@ -2127,5 +2127,13 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (3.75%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-17T21:25:47.384382",
+    "symbol": "T",
+    "side": "buy",
+    "qty": 92,
+    "price": 28.88,
+    "reason": []
   }
 ]
