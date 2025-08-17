@@ -2107,5 +2107,15 @@
       "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-0.60%), long.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.87%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-17T21:25:39.998229",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 40,
+    "price": 66.21,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-7.79%), long."
+    ]
   }
 ]
