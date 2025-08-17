@@ -2088,5 +2088,13 @@
     "qty": 56,
     "price": 46.94,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-17T21:25:32.639711",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 109,
+    "price": 25.16,
+    "reason": []
   }
 ]
