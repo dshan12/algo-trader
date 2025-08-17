@@ -2143,5 +2143,15 @@
     "qty": 27,
     "price": 308.97,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-17T21:25:54.776373",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 2,
+    "price": 972.25,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-0.91%), long."
+    ]
   }
 ]
