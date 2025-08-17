@@ -2153,5 +2153,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-0.91%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-17T21:25:58.520035",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 13,
+    "price": 242.5,
+    "reason": [
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.29, long GOOGL."
+    ]
   }
 ]
