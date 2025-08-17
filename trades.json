@@ -2054,5 +2054,15 @@
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-0.36%), long.",
       "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-17T21:25:18.065331",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 14,
+    "price": 180.42,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-1.23%), long."
+    ]
   }
 ]
