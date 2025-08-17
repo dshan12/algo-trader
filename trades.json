@@ -2080,5 +2080,13 @@
     "qty": 8,
     "price": 344.39,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-17T21:25:28.991738",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 56,
+    "price": 46.94,
+    "reason": []
   }
 ]
