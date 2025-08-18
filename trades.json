@@ -2194,5 +2194,13 @@
       "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-0.60%), long.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.87%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-18T21:24:29.354481",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 1,
+    "price": 308.75,
+    "reason": []
   }
 ]
