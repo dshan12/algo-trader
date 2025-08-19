@@ -2271,5 +2271,13 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (3.81%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-19T21:27:24.127348",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 26,
+    "price": 107.45,
+    "reason": []
   }
 ]
