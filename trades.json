@@ -2213,5 +2213,15 @@
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-0.90%), long.",
       "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.99%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-19T21:26:59.646723",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 4,
+    "price": 201.64,
+    "reason": [
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.20, short CRM."
+    ]
   }
 ]
