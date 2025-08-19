@@ -2202,5 +2202,16 @@
     "qty": 1,
     "price": 308.75,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-19T21:26:55.575406",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 2,
+    "price": 510.06,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-0.90%), long.",
+      "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.99%)."
+    ]
   }
 ]
