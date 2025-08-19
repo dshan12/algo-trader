@@ -2339,5 +2339,15 @@
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (4.85%), short.",
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.20, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-08-19T21:27:53.192247",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 1,
+    "price": 131.27,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-0.83%), long."
+    ]
   }
 ]
