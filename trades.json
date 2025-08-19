@@ -2223,5 +2223,15 @@
     "reason": [
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.20, short CRM."
     ]
+  },
+  {
+    "timestamp": "2025-08-19T21:27:03.717337",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 2,
+    "price": 175.66,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-0.03%), long."
+    ]
   }
 ]
