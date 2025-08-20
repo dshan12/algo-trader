@@ -2482,5 +2482,13 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (3.91%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-20T21:26:04.438354",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 21,
+    "price": 132.41,
+    "reason": []
   }
 ]
