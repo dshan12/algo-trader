@@ -2403,5 +2403,15 @@
     "qty": 58,
     "price": 48.36,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-20T21:25:32.322003",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 569,
+    "price": 25.37,
+    "reason": [
+      "Pairs Trading: JNJ/PFE spread z\u2011score=3.01, long JNJ."
+    ]
   }
 ]
