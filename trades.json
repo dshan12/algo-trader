@@ -2490,5 +2490,15 @@
     "qty": 21,
     "price": 132.41,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-20T21:26:08.567269",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 1,
+    "price": 353.335,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (6.68%), short."
+    ]
   }
 ]
