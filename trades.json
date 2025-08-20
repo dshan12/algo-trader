@@ -2462,5 +2462,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (3.60%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-20T21:25:56.393203",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 12,
+    "price": 23.47,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (16.05%), short."
+    ]
   }
 ]
