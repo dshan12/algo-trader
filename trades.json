@@ -2500,5 +2500,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (6.68%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-20T21:26:12.692038",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 2,
+    "price": 1213.66,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-0.91%), long."
+    ]
   }
 ]
