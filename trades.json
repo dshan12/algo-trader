@@ -2431,5 +2431,15 @@
     "qty": 37,
     "price": 76.23,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-20T21:25:44.334792",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 18,
+    "price": 153.18,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-1.58%), long."
+    ]
   }
 ]
