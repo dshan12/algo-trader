@@ -2441,5 +2441,16 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-1.58%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-20T21:25:48.105786",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 11,
+    "price": 313.12,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 best 1\u2011week performers (3.08%), short.",
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.00%)."
+    ]
   }
 ]
