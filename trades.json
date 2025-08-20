@@ -2452,5 +2452,15 @@
       "Weekly Reversal: MCD was among the 10 best 1\u2011week performers (3.08%), short.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-20T21:25:52.224830",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 19,
+    "price": 150.775,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (3.60%), short."
+    ]
   }
 ]
