@@ -2630,5 +2630,15 @@
     "qty": 32,
     "price": 86.13,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-21T21:25:23.429754",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 2,
+    "price": 67.02,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-4.67%), long."
+    ]
   }
 ]
