@@ -2550,5 +2550,16 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.15%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:24:50.693361",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 22,
+    "price": 179.03,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (2.53%), short.",
+      "Pairs Trading: JNJ/PFE spread z\u2011score=3.09, short PFE."
+    ]
   }
 ]
