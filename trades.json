@@ -2694,5 +2694,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (5.94%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:51.365380",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 4,
+    "price": 45.03,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (3.09%), short."
+    ]
   }
 ]
