@@ -2640,5 +2640,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-4.67%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:27.653766",
+    "symbol": "T",
+    "side": "sell",
+    "qty": 102,
+    "price": 29.45,
+    "reason": [
+      "Weekly Reversal: T was among the 10 best 1\u2011week performers (3.10%), short."
+    ]
   }
 ]
