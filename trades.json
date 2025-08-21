@@ -2520,5 +2520,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-3.14%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:24:38.584989",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 15,
+    "price": 200.6,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-1.40%), long."
+    ]
   }
 ]
