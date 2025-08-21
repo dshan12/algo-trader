@@ -2660,5 +2660,13 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-1.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:35.413550",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 28,
+    "price": 97.96,
+    "reason": []
   }
 ]
