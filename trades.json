@@ -2704,5 +2704,13 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 best 1\u2011week performers (3.09%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:55.253236",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 8,
+    "price": 353.28,
+    "reason": []
   }
 ]
