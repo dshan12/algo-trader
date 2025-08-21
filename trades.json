@@ -2602,5 +2602,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 best 1\u2011week performers (2.56%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:11.047835",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 26,
+    "price": 25.715,
+    "reason": [
+      "Pairs Trading: JNJ/PFE spread z\u2011score=3.09, long JNJ."
+    ]
   }
 ]
