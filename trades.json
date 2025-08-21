@@ -2720,5 +2720,13 @@
     "qty": 84,
     "price": 33.6,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-21T21:26:02.981660",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 2,
+    "price": 1205.84,
+    "reason": []
   }
 ]
