@@ -2510,5 +2510,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-0.91%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:24:34.326673",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 13,
+    "price": 224.9,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 worst 1\u2011week performers (-3.14%), long."
+    ]
   }
 ]
