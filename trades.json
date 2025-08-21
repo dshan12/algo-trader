@@ -2676,5 +2676,13 @@
     "qty": 2,
     "price": 969.73,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-21T21:25:43.381338",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 19,
+    "price": 148.99,
+    "reason": []
   }
 ]
