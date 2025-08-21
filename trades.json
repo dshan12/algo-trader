@@ -2612,5 +2612,15 @@
     "reason": [
       "Pairs Trading: JNJ/PFE spread z\u2011score=3.09, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2025-08-21T21:25:15.123103",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 5,
+    "price": 70.63,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.89%)."
+    ]
   }
 ]
