@@ -2824,5 +2824,15 @@
       "Weekly Reversal: PG was among the 10 best 1\u2011week performers (2.79%), short.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.95%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:24:07.919179",
+    "symbol": "MA",
+    "side": "sell",
+    "qty": 1,
+    "price": 598.87,
+    "reason": [
+      "Weekly Reversal: MA was among the 10 best 1\u2011week performers (2.97%), short."
+    ]
   }
 ]
