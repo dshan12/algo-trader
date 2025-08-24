@@ -2777,5 +2777,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-1.36%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:23:47.877578",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 1,
+    "price": 754.96,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-3.88%), long."
+    ]
   }
 ]
