@@ -2749,5 +2749,15 @@
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.49%), long.",
       "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.96%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:23:35.826899",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 17,
+    "price": 228.85,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-0.95%), long."
+    ]
   }
 ]
