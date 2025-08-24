@@ -2908,5 +2908,13 @@
     "qty": 19,
     "price": 158.16,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-24T21:24:44.069058",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 11,
+    "price": 314.03,
+    "reason": []
   }
 ]
