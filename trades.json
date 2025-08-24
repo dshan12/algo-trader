@@ -2916,5 +2916,15 @@
     "qty": 11,
     "price": 314.03,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-24T21:24:48.043173",
+    "symbol": "WMT",
+    "side": "buy",
+    "qty": 41,
+    "price": 96.85,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-3.17%), long."
+    ]
   }
 ]
