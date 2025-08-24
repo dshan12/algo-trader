@@ -2787,5 +2787,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-3.88%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:23:51.963085",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 3,
+    "price": 340.0,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (2.86%), short."
+    ]
   }
 ]
