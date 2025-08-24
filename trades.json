@@ -2834,5 +2834,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 best 1\u2011week performers (2.97%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:24:12.058869",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 81,
+    "price": 49.49,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (5.41%), short."
+    ]
   }
 ]
