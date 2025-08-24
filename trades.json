@@ -2864,5 +2864,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (4.50%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:24:23.977909",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 32,
+    "price": 70.14,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.89%)."
+    ]
   }
 ]
