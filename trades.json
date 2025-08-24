@@ -2970,5 +2970,15 @@
     "qty": 68,
     "price": 44.43,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-24T21:25:11.824987",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 3,
+    "price": 1204.815,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-2.77%), long."
+    ]
   }
 ]
