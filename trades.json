@@ -2946,5 +2946,13 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-0.51%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-24T21:24:59.904063",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 1,
+    "price": 210.61,
+    "reason": []
   }
 ]
