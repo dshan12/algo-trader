@@ -2962,5 +2962,13 @@
     "qty": 130,
     "price": 24.94,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-24T21:25:07.856128",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 68,
+    "price": 44.43,
+    "reason": []
   }
 ]
