@@ -2980,5 +2980,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-2.77%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-25T21:25:09.544895",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 1,
+    "price": 68.92,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.89%)."
+    ]
   }
 ]
