@@ -3171,5 +3171,13 @@
     "qty": 27,
     "price": 147.01,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-26T21:24:36.431542",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 47,
+    "price": 243.73,
+    "reason": []
   }
 ]
