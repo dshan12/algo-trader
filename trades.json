@@ -3061,5 +3061,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-1.18%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:23:51.259847",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 21,
+    "price": 156.02,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
