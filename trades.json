@@ -3041,5 +3041,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-1.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:23:43.586960",
+    "symbol": "V",
+    "side": "sell",
+    "qty": 10,
+    "price": 351.22,
+    "reason": [
+      "Weekly Reversal: V was among the 10 best 1\u2011week performers (1.77%), short."
+    ]
   }
 ]
