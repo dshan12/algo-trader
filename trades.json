@@ -3051,5 +3051,15 @@
     "reason": [
       "Weekly Reversal: V was among the 10 best 1\u2011week performers (1.77%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:23:47.384656",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 12,
+    "price": 300.49,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-1.18%), long."
+    ]
   }
 ]
