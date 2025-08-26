@@ -3143,5 +3143,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 best 1\u2011week performers (2.25%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:24:25.358461",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 23,
+    "price": 157.36,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (1.85%), short."
+    ]
   }
 ]
