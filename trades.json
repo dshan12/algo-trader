@@ -3163,5 +3163,13 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-4.60%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:24:32.681705",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 27,
+    "price": 147.01,
+    "reason": []
   }
 ]
