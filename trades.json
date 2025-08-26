@@ -3107,5 +3107,13 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (4.70%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-26T21:24:10.260394",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 595,
+    "price": 24.93,
+    "reason": []
   }
 ]
