@@ -3179,5 +3179,15 @@
     "qty": 47,
     "price": 243.73,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-26T21:24:40.195472",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 152,
+    "price": 24.31,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (3.76%), short."
+    ]
   }
 ]
