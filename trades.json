@@ -3291,5 +3291,16 @@
     "qty": 7,
     "price": 408.32,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-27T21:24:57.559018",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 3,
+    "price": 156.95,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-1.53%), long.",
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.95%)."
+    ]
   }
 ]
