@@ -3419,5 +3419,15 @@
     "reason": [
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.22, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-08-27T21:25:57.900668",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 60,
+    "price": 44.27,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-2.18%), long."
+    ]
   }
 ]
