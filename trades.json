@@ -3409,5 +3409,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-3.39%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-27T21:25:53.110205",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 53,
+    "price": 250.05,
+    "reason": [
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.22, long GOOGL."
+    ]
   }
 ]
