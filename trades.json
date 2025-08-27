@@ -3283,5 +3283,13 @@
     "qty": 12,
     "price": 303.85,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-27T21:24:52.871174",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 7,
+    "price": 408.32,
+    "reason": []
   }
 ]
