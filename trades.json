@@ -3389,5 +3389,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-5.17%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-27T21:25:43.794776",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 1,
+    "price": 949.565,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-4.03%), long."
+    ]
   }
 ]
