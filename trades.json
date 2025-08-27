@@ -3361,5 +3361,13 @@
     "qty": 47,
     "price": 78.08,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-27T21:25:29.996621",
+    "symbol": "ORCL",
+    "side": "buy",
+    "qty": 53,
+    "price": 235.85,
+    "reason": []
   }
 ]
