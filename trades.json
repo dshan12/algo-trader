@@ -3265,5 +3265,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (2.72%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-27T21:24:43.665247",
+    "symbol": "V",
+    "side": "buy",
+    "qty": 2,
+    "price": 350.34,
+    "reason": [
+      "Weekly Reversal: V was among the 10 best 1\u2011week performers (2.55%), short."
+    ]
   }
 ]
