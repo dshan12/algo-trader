@@ -3216,5 +3216,16 @@
     "qty": 17,
     "price": 228.66,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-27T21:24:20.322218",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 61,
+    "price": 207.07,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (2.76%), short.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.22, short CRM."
+    ]
   }
 ]
