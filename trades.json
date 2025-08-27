@@ -3399,5 +3399,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-4.03%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-27T21:25:48.419080",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 18,
+    "price": 147.63,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-3.39%), long."
+    ]
   }
 ]
