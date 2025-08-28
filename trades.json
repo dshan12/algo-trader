@@ -3447,5 +3447,15 @@
     "qty": 3,
     "price": 1224.29,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-28T21:23:47.729471",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 6,
+    "price": 509.6,
+    "reason": [
+      "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.97%)."
+    ]
   }
 ]
