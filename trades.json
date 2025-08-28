@@ -3524,5 +3524,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-6.33%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-28T21:24:25.759385",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 44,
+    "price": 24.89,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (5.56%), short."
+    ]
   }
 ]
