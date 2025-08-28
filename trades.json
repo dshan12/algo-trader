@@ -3504,5 +3504,15 @@
     "qty": 39,
     "price": 69.43,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-28T21:24:16.162979",
+    "symbol": "T",
+    "side": "buy",
+    "qty": 92,
+    "price": 28.96,
+    "reason": [
+      "Weekly Reversal: T was among the 10 worst 1\u2011week performers (-0.75%), long."
+    ]
   }
 ]
