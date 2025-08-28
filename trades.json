@@ -3496,5 +3496,13 @@
     "qty": 8,
     "price": 349.78,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-28T21:24:11.472137",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 39,
+    "price": 69.43,
+    "reason": []
   }
 ]
