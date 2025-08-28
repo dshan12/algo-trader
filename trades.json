@@ -3467,5 +3467,16 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (2.37%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-28T21:23:57.212370",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 1,
+    "price": 211.66,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (4.09%), short.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.01, short CRM."
+    ]
   }
 ]
