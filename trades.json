@@ -3679,5 +3679,15 @@
       "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-1.63%), long.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.91%)."
     ]
+  },
+  {
+    "timestamp": "2025-08-31T21:23:23.568200",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 43,
+    "price": 84.12,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-3.72%), long."
+    ]
   }
 ]
