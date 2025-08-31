@@ -3628,5 +3628,15 @@
     "qty": 15,
     "price": 177.16,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-31T21:23:00.495589",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 2,
+    "price": 157.11,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
