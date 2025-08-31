@@ -3620,5 +3620,13 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.75%), short."
     ]
+  },
+  {
+    "timestamp": "2025-08-31T21:22:55.809328",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 15,
+    "price": 177.16,
+    "reason": []
   }
 ]
