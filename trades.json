@@ -3668,5 +3668,16 @@
     "reason": [
       "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-4.33%), long."
     ]
+  },
+  {
+    "timestamp": "2025-08-31T21:23:18.914670",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 46,
+    "price": 69.02,
+    "reason": [
+      "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-1.63%), long.",
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.91%)."
+    ]
   }
 ]
