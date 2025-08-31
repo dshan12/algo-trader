@@ -3552,5 +3552,15 @@
     "qty": 7,
     "price": 353.89,
     "reason": []
+  },
+  {
+    "timestamp": "2025-08-31T21:22:23.045190",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 15,
+    "price": 232.27,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (1.92%), short."
+    ]
   }
 ]
