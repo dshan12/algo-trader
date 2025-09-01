@@ -3811,5 +3811,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.75%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-01T21:23:01.983827",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 2,
+    "price": 157.11,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
