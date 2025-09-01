@@ -3771,5 +3771,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (1.92%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-01T21:22:42.638492",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 4,
+    "price": 506.74,
+    "reason": [
+      "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.98%)."
+    ]
   }
 ]
