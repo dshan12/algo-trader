@@ -4043,5 +4043,15 @@
     "reason": [
       "Weekly Reversal: ORCL was among the 10 worst 1\u2011week performers (-4.33%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:23:15.960552",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 4,
+    "price": 161.79,
+    "reason": [
+      "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (1.53%), short."
+    ]
   }
 ]
