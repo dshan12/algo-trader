@@ -3972,5 +3972,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.75%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:22:45.235005",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 16,
+    "price": 50.41,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (2.55%), short."
+    ]
   }
 ]
