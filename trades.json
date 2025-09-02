@@ -3952,5 +3952,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (3.29%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:22:36.244488",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 4,
+    "price": 735.41,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-2.13%), long."
+    ]
   }
 ]
