@@ -4053,5 +4053,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 best 1\u2011week performers (1.53%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:23:20.714606",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 9,
+    "price": 345.465,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-1.48%), long."
+    ]
   }
 ]
