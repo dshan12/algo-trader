@@ -3932,5 +3932,15 @@
     "reason": [
       "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:22:27.561102",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 1,
+    "price": 221.59,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (3.31%), short."
+    ]
   }
 ]
