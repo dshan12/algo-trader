@@ -4033,5 +4033,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (2.63%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-02T21:23:11.497458",
+    "symbol": "ORCL",
+    "side": "sell",
+    "qty": 15,
+    "price": 225.32,
+    "reason": [
+      "Weekly Reversal: ORCL was among the 10 worst 1\u2011week performers (-4.33%), long."
+    ]
   }
 ]
