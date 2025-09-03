@@ -4216,5 +4216,15 @@
     "qty": 55,
     "price": 67.72,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-03T21:23:52.933560",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 35,
+    "price": 74.73,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-6.16%), long."
+    ]
   }
 ]
