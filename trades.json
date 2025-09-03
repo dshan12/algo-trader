@@ -4063,5 +4063,13 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-1.48%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:22:50.186736",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 16,
+    "price": 238.485,
+    "reason": []
   }
 ]
