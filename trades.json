@@ -4139,5 +4139,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.63%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:23:21.378645",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 74,
+    "price": 177.92,
+    "reason": [
+      "Pairs Trading: JNJ/PFE spread z\u2011score=2.71, short PFE."
+    ]
   }
 ]
