@@ -4129,5 +4129,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-2.41%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:23:17.429111",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 4,
+    "price": 299.46,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (1.63%), short."
+    ]
   }
 ]
