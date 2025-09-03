@@ -4179,5 +4179,16 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (2.64%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:23:36.720297",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 496,
+    "price": 24.79,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-0.64%), long.",
+      "Pairs Trading: JNJ/PFE spread z\u2011score=2.71, long JNJ."
+    ]
   }
 ]
