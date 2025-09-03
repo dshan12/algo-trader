@@ -4274,5 +4274,15 @@
     "reason": [
       "Low Volatility: COST is in the lowest decile of 60\u2011day vol (0.96%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:24:15.930112",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 17,
+    "price": 148.66,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (1.40%), short."
+    ]
   }
 ]
