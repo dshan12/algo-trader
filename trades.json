@@ -4071,5 +4071,13 @@
     "qty": 16,
     "price": 238.485,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-03T21:22:54.095911",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 17,
+    "price": 505.31,
+    "reason": []
   }
 ]
