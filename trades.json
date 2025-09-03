@@ -4294,5 +4294,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (2.11%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:24:23.576495",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 60,
+    "price": 43.73,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-0.97%), long."
+    ]
   }
 ]
