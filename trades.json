@@ -4190,5 +4190,15 @@
       "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-0.64%), long.",
       "Pairs Trading: JNJ/PFE spread z\u2011score=2.71, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:23:40.643424",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 86,
+    "price": 69.01,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
