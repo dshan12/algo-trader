@@ -4304,5 +4304,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-0.97%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:24:27.287383",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 3,
+    "price": 348.5,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-4.84%), long."
+    ]
   }
 ]
