@@ -4149,5 +4149,15 @@
     "reason": [
       "Pairs Trading: JNJ/PFE spread z\u2011score=2.71, short PFE."
     ]
+  },
+  {
+    "timestamp": "2025-09-03T21:23:25.194108",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 13,
+    "price": 158.15,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.93%)."
+    ]
   }
 ]
