@@ -4514,5 +4514,16 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (1.68%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:24:17.778144",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 4,
+    "price": 244.07,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (5.21%), short.",
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.45, long GOOGL."
+    ]
   }
 ]
