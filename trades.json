@@ -4324,5 +4324,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (3.99%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:23:04.395478",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 1,
+    "price": 235.67,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-1.19%), long."
+    ]
   }
 ]
