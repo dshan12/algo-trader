@@ -4408,5 +4408,13 @@
     "qty": 24,
     "price": 112.415,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-04T21:23:37.451339",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 644,
+    "price": 24.49,
+    "reason": []
   }
 ]
