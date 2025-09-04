@@ -4525,5 +4525,13 @@
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (5.21%), short.",
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.45, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:24:21.411553",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 60,
+    "price": 44.16,
+    "reason": []
   }
 ]
