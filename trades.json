@@ -4456,5 +4456,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-4.97%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:23:55.657974",
+    "symbol": "ORCL",
+    "side": "buy",
+    "qty": 1,
+    "price": 222.97,
+    "reason": [
+      "Weekly Reversal: ORCL was among the 10 worst 1\u2011week performers (-4.59%), long."
+    ]
   }
 ]
