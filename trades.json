@@ -4371,5 +4371,15 @@
     "qty": 74,
     "price": 178.7,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-04T21:23:22.865296",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 9,
+    "price": 310.18,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (2.48%), short."
+    ]
   }
 ]
