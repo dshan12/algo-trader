@@ -4446,5 +4446,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-1.05%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:23:51.974382",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 4,
+    "price": 75.375,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-4.97%), long."
+    ]
   }
 ]
