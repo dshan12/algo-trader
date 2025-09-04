@@ -4504,5 +4504,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (1.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-04T21:24:14.258294",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 2,
+    "price": 213.03,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (1.68%), short."
+    ]
   }
 ]
