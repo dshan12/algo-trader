@@ -4363,5 +4363,13 @@
     "qty": 9,
     "price": 303.86,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-04T21:23:19.199692",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 74,
+    "price": 178.7,
+    "reason": []
   }
 ]
