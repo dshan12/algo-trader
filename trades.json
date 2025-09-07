@@ -4619,5 +4619,15 @@
       "Weekly Reversal: PG was among the 10 best 1\u2011week performers (2.81%), short.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.93%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-07T21:21:25.871975",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 25,
+    "price": 109.25,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-3.63%), long."
+    ]
   }
 ]
