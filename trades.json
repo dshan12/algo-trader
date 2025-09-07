@@ -4695,5 +4695,15 @@
     "qty": 20,
     "price": 146.375,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-07T21:21:56.009664",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 7,
+    "price": 250.73,
+    "reason": [
+      "Pairs Trading: GOOGL/CRM spread z\u2011score=2.68, long GOOGL."
+    ]
   }
 ]
