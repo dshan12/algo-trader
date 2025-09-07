@@ -4598,5 +4598,15 @@
     "reason": [
       "Weekly Reversal: V was among the 10 worst 1\u2011week performers (-1.90%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-07T21:21:18.426659",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 6,
+    "price": 418.98,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 best 1\u2011week performers (2.82%), short."
+    ]
   }
 ]
