@@ -4543,5 +4543,13 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.87%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-07T21:20:56.033658",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 12,
+    "price": 232.365,
+    "reason": []
   }
 ]
