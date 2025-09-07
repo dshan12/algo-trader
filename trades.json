@@ -4562,5 +4562,13 @@
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (11.04%), short.",
       "Pairs Trading: GOOGL/CRM spread z\u2011score=2.68, short CRM."
     ]
+  },
+  {
+    "timestamp": "2025-09-07T21:21:03.330293",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 4,
+    "price": 751.37,
+    "reason": []
   }
 ]
