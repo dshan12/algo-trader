@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# src/live_trade.py
 
 import os
 import time
@@ -9,7 +8,6 @@ from pathlib import Path
 import pandas as pd
 # from dotenv import load_dotenv
 
-# Alpaca REST client (only used when DRY_RUN is False)
 from alpaca_trade_api.rest import REST
 
 # yfinance for DRY‑RUN price fetch
@@ -216,6 +214,17 @@ def main():
             vol60 = price_df[sym].pct_change().rolling(60).std().iloc[-1]
             reason_lines.append(
                 f"Low Volatility: {sym} is in the lowest decile of 60‑day vol ({vol60:.2%})."
+            )
+
+        if not reason_lines:
+            cur_w = (cur / equity) * 100 if equity else 0
+            tgt_w = (tgt / equity) * 100 if equity else 0
+            direction = "up" if diff > 0 else "down"
+            reason_lines.append(
+                (
+                    "Rebalance: Moving {direction} toward target weight "
+                    "{tgt_w:.1f}% from current {cur_w:.1f}% based on baseline allocation."
+                ).format(direction=direction, tgt_w=tgt_w, cur_w=cur_w)
             )
 
         trade_record = {
