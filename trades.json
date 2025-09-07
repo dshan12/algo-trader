@@ -4533,5 +4533,15 @@
     "qty": 60,
     "price": 44.16,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-07T21:20:52.213132",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 5,
+    "price": 494.96,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-2.87%), long."
+    ]
   }
 ]
