@@ -4824,5 +4824,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-1.33%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:10:21.959634",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 1,
+    "price": 110.67,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-3.52%), long."
+    ]
   }
 ]
