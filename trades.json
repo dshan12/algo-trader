@@ -5117,5 +5117,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.74, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:24:32.110640",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 20,
+    "price": 129.38,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-2.13%), long."
+    ]
   }
 ]
