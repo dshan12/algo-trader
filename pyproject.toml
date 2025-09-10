@@ -4,15 +4,15 @@ version = "0.1.0"
 description = "Turtle Trading algo, paper traded via Alpaca with GitHub logging"
 requires-python = ">=3.8"
 dependencies = [
-  "alpaca-trade-api==3.2.0",
-  "backtrader==1.9.78.123",
-  "ipython==8.12.3",
-  "pandas==2.0.3",
-  "pygithub==2.6.1",
-  "python-dotenv==1.0.1",
-  "quantstats==0.0.64",
-  "statsmodels==0.14.1",
-  "yfinance==0.2.58",
+  "alpaca-trade-api>=3.2.0",
+  "backtrader>=1.9.78.123",
+  "ipython>=8.12.3",
+  "pandas>=2.0.3",
+  "pygithub>=2.6.1",
+  "python-dotenv>=1.0.1",
+  "quantstats>=0.0.64",
+  "statsmodels>=0.14.1",
+  "yfinance>=0.2.58",
 ]
 
 [build-system]
