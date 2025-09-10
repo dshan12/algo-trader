@@ -72,7 +72,7 @@ def fetch_universe_history_alpaca(
 
     for sym in symbols:
         try:
-            barset = api.get_bars(sym, "1Day", start.isoformat(), end.isoformat())
+            barset = api.get_bars(sym, "1Day", start.isoformat())
             df = barset.df
             if not df.empty:
                 # Just take the 'close' column — no symbol filter needed
