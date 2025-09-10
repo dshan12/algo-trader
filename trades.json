@@ -4713,5 +4713,15 @@
     "qty": 8,
     "price": 348.96,
     "reason": []
+  },
+  {
+    "timestamp": "2025-09-10T02:09:32.881489",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 11,
+    "price": 233.18,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
