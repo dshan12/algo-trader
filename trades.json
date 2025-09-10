@@ -4906,5 +4906,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (4.54%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:10:57.577103",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 18,
+    "price": 143.12,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-4.78%), long."
+    ]
   }
 ]
