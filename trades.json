@@ -5067,5 +5067,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:24:09.562132",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 18,
+    "price": 306.01,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-3.30%), long."
+    ]
   }
 ]
