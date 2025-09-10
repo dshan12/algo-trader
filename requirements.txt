@@ -1,7 +1,6 @@
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.15
 aiosignal==1.4.0
--e file:///home/dshan/algo-trader
 alpaca-trade-api==3.2.0
 attrs==25.3.0
 backtrader==1.9.78.123
