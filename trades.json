@@ -5107,5 +5107,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (3.21%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:24:27.649206",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 4,
+    "price": 43.5,
+    "reason": [
+      "Pairs Trading: GOOGL/VZ spread z\u2011score=3.74, long GOOGL."
+    ]
   }
 ]
