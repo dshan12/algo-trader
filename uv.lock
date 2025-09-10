@@ -331,15 +331,15 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "alpaca-trade-api", specifier = "==3.2.0" },
-    { name = "backtrader", specifier = "==1.9.78.123" },
-    { name = "ipython", specifier = "==8.12.3" },
-    { name = "pandas", specifier = "==2.0.3" },
-    { name = "pygithub", specifier = "==2.6.1" },
-    { name = "python-dotenv", specifier = "==1.0.1" },
-    { name = "quantstats", specifier = "==0.0.64" },
-    { name = "statsmodels", specifier = "==0.14.1" },
-    { name = "yfinance", specifier = "==0.2.58" },
+    { name = "alpaca-trade-api", specifier = ">=3.2.0" },
+    { name = "backtrader", specifier = ">=1.9.78.123" },
+    { name = "ipython", specifier = ">=8.12.3" },
+    { name = "pandas", specifier = ">=2.0.3" },
+    { name = "pygithub", specifier = ">=2.6.1" },
+    { name = "python-dotenv", specifier = ">=1.0.1" },
+    { name = "quantstats", specifier = ">=0.0.64" },
+    { name = "statsmodels", specifier = ">=0.14.1" },
+    { name = "yfinance", specifier = ">=0.2.58" },
 ]
 
 [[package]]
@@ -2283,7 +2283,7 @@ name = "pexpect"
 version = "4.9.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
-    { name = "ptyprocess", marker = "python_full_version >= '3.9' or sys_platform != 'win32'" },
+    { name = "ptyprocess", marker = "sys_platform != 'win32'" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/42/92/cc564bf6381ff43ce1f4d06852fc19a2f11d180f23dc32d9588bee2f149d/pexpect-4.9.0.tar.gz", hash = "sha256:ee7d41123f3c9911050ea2c2dac107568dc43b2d3b0c7557a33212c398ead30f", size = 166450 }
 wheels = [
