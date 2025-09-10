@@ -5006,5 +5006,15 @@
     "reason": [
       "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-1.24%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:23:42.318897",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 1,
+    "price": 157.36,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.91%)."
+    ]
   }
 ]
