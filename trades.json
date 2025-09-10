@@ -4723,5 +4723,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:09:37.546681",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 11,
+    "price": 238.23,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (5.72%), short."
+    ]
   }
 ]
