@@ -4784,5 +4784,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:10:04.089994",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 1,
+    "price": 348.19,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (12.67%), short."
+    ]
   }
 ]
