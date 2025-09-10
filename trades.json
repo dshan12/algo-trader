@@ -4774,5 +4774,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (5.35%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:09:59.644730",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 9,
+    "price": 297.75,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
