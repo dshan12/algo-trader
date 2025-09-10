@@ -5057,5 +5057,15 @@
       "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-1.70%), long.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.88%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:24:05.150125",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 18,
+    "price": 157.78,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
