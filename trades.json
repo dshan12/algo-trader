@@ -5016,5 +5016,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.91%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:23:46.812873",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 23,
+    "price": 115.82,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-1.35%), long."
+    ]
   }
 ]
