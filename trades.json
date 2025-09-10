@@ -5026,5 +5026,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-1.35%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:23:51.788796",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 24,
+    "price": 112.52,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
