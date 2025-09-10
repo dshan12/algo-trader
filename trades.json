@@ -5127,5 +5127,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-2.13%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T21:24:36.448785",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 78,
+    "price": 33.475,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
