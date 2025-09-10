@@ -4956,5 +4956,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.84, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-09-10T02:11:19.526815",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 78,
+    "price": 33.675,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-1.35%), long."
+    ]
   }
 ]
