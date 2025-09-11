@@ -5298,5 +5298,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (1.81%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:27.254905",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 80,
+    "price": 33.385,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-1.62%), long."
+    ]
   }
 ]
