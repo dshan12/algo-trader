@@ -5278,5 +5278,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.69, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:20.177010",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 20,
+    "price": 132.625,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
