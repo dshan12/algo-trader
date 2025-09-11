@@ -5268,5 +5268,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:16.564717",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 3,
+    "price": 44.14,
+    "reason": [
+      "Pairs Trading: GOOGL/VZ spread z\u2011score=3.69, long GOOGL."
+    ]
   }
 ]
