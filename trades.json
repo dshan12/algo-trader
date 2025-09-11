@@ -5228,5 +5228,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (1.70%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:02.310386",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 6,
+    "price": 964.475,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.9% based on baseline allocation."
+    ]
   }
 ]
