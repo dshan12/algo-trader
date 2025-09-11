@@ -5258,5 +5258,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:12.989685",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 108,
+    "price": 24.57,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
