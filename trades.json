@@ -5177,5 +5177,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 best 1\u2011week performers (2.85%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:22:44.262531",
+    "symbol": "MA",
+    "side": "sell",
+    "qty": 4,
+    "price": 589.155,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
