@@ -5207,5 +5207,16 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-1.35%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:22:55.231362",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 19,
+    "price": 308.43,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.70%), long.",
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.98%)."
+    ]
   }
 ]
