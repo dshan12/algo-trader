@@ -5248,5 +5248,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (3.39%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:23:09.382949",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 11,
+    "price": 246.2,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
