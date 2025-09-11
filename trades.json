@@ -5197,5 +5197,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.88%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-11T21:22:51.628495",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 36,
+    "price": 74.32,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-1.35%), long."
+    ]
   }
 ]
