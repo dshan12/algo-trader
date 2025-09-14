@@ -5408,5 +5408,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:22:15.236630",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 2,
+    "price": 968.01,
+    "reason": [
+      "Low Volatility: COST is in the lowest decile of 60\u2011day vol (1.01%)."
+    ]
   }
 ]
