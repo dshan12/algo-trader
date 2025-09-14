@@ -5308,5 +5308,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-1.62%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:21:32.107567",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 1,
+    "price": 234.04,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.2% based on baseline allocation."
+    ]
   }
 ]
