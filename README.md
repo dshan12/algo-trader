@@ -133,7 +133,7 @@ Run `generate_stats.py` after you have trading history or a backtest; it writes:
 **Quick gallery (auto-generated figures from this repo)**
 ![Equity Curve](report/equity_curve.png)
 ![Drawdown](report/drawdown.png)
-![Rolling Sharpe](report/rolling_sharpe_60d.png)
+![Rolling Sharpe](report/rolling_sharpe_30d.png)
 ![Portfolio vs SPY](report/equity_vs_spy.png)
 
 > All metrics are computed from the account’s **full portfolio history** returned by Alpaca and your recorded fills; no sample numbers are hardcoded here.
