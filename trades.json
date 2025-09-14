@@ -5649,5 +5649,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-2.84%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:24:01.654717",
+    "symbol": "V",
+    "side": "sell",
+    "qty": 8,
+    "price": 339.36,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
