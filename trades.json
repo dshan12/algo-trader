@@ -5538,5 +5538,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-3.68%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:23:12.338247",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 8,
+    "price": 306.84,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (4.26%), short."
+    ]
   }
 ]
