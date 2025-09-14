@@ -7,7 +7,7 @@ Lifetime (full portfolio_history) performance for your Alpaca account:
 - Benchmark vs SPY: alpha (annualized) / beta / R² and a normalized comparison plot
 
 Outputs in ./report:
-    equity_curve.png, drawdown.png, rolling_sharpe_60d.png, allocation_bar.png,
+    equity_curve.png, drawdown.png, rolling_sharpe_30d.png, allocation_bar.png,
     monthly_returns_heatmap.csv, fills.csv, per_symbol_realized_pnl.csv,
     per_order_realized_pnl.csv, equity_vs_spy.png
 
@@ -35,7 +35,7 @@ import yfinance as yf
 
 # ---------------- Config ----------------
 REPORT_DIR = "./report"
-ROLLING_SHARPE_WINDOW = 60  # trading days
+ROLLING_SHARPE_WINDOW = 30  # trading days
 RISK_FREE_ANNUAL = 0.0
 COST_BPS = 0.0  # extra per-side cost on sells for realized PnL
 ACTIVITY_PAGES_MAX = 200  # pagination safety
@@ -353,7 +353,7 @@ def plot_rolling_sharpe(daily_returns: pd.Series, window=ROLLING_SHARPE_WINDOW):
     plt.ylabel("Sharpe")
     plt.legend()
     plt.tight_layout()
-    path = os.path.join(REPORT_DIR, "rolling_sharpe_60d.png")
+    path = os.path.join(REPORT_DIR, "rolling_sharpe_30d.png")
     plt.savefig(path)
     plt.close()
     return path
@@ -569,4 +569,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
