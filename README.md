@@ -73,28 +73,28 @@ pip install -r requirements.txt
 
 ### 1) Update the Trading Universe
 Refresh `symbols.txt` with a SPY-like Top-N subset (keeps you under free API limits):
-"""
+```
 python tools/update_symbols.py --n 50 --format alpaca
 # use --format yahoo to keep tickers like BRK.B
-"""
+```
 
 ### 2) Backtest
 Runs sample comparisons (weekly reversal horizons, pair trade, low-vol tilt, covered calls, and a composite):
-"""
+```
 python -m src.backtest
-"""
+```
 
 ### 3) Live Trading (paper or live)
 Executes end-of-day orders based on current signals:
-"""
+```
 python -m src.live_trade
-"""
+```
 
 ### 4) Generate Lifetime Stats & Figures
 Builds a lifetime (first→last) report from your Alpaca `portfolio_history` + fills and benchmarks vs SPY:
-"""
+```
 python generate_stats.py
-"""
+```
 Artifacts are saved to `./report/`.
 
 ---
@@ -146,9 +146,9 @@ A GitHub Action (`.github/workflows/daily-trade.yml`) is included to run live tr
 - Schedule: `21:05 UTC` on weekdays
 - Secrets used: `ALPACA_API_KEY`, `ALPACA_API_SECRET`, and `PAT` (GitHub token)
 - Runner command:
-  """
+  ```
   python -m src.live_trade
-  """
+  ```
 
 ---
 
