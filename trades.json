@@ -5629,5 +5629,15 @@
     "reason": [
       "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-4.06%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:23:52.601500",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 20,
+    "price": 157.925,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
