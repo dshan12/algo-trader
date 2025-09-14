@@ -91,7 +91,7 @@ python -m src.live_trade
 ```
 
 ### 4) Generate Lifetime Stats & Figures
-Builds a lifetime (first→last) report from your Alpaca `portfolio_history` + fills and benchmarks vs SPY:
+Builds a lifetime (first→last) report from Alpaca `portfolio_history` + fills and benchmarks vs SPY:
 ```
 python generate_stats.py
 ```
@@ -114,7 +114,7 @@ The framework separates **signals** (strategy) from **execution** (backtest/live
 
 ---
 
-## Results (from your repository)
+## Result
 
 Run `generate_stats.py` after you have trading history or a backtest; it writes:
 
@@ -136,8 +136,6 @@ Run `generate_stats.py` after you have trading history or a backtest; it writes:
 ![Rolling Sharpe](report/rolling_sharpe_30d.png)
 ![Portfolio vs SPY](report/equity_vs_spy.png)
 
-> All metrics are computed from the account’s **full portfolio history** returned by Alpaca and your recorded fills; no sample numbers are hardcoded here.
-
 ---
 
 ## Automation (optional)
@@ -154,7 +152,7 @@ A GitHub Action (`.github/workflows/daily-trade.yml`) is included to run live tr
 
 ## Troubleshooting
 
-- **No portfolio history / empty figures** → Ensure your Alpaca keys are set and the account has history; for testing, run a backtest first.  
+- **No portfolio history / empty figures** → Ensure Alpaca keys are set and the account has history; for testing, run a backtest first.  
 - **SPY benchmark missing** → Install `yfinance` (see `requirements.txt`) and ensure network access.  
 - **Universe too large / rate limits** → Use `tools/update_symbols.py --n 50` to keep a compact, SPY-like set.  
 - **Python version** → The repo’s `.python-version` is **3.10**; use 3.10+ for best compatibility with pinned deps.
