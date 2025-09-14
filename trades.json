@@ -5338,5 +5338,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 worst 1\u2011week performers (-6.44%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:21:45.126753",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 7,
+    "price": 349.27,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
