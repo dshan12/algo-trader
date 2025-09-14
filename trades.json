@@ -5578,5 +5578,16 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (3.88%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:23:29.952105",
+    "symbol": "MCD",
+    "side": "sell",
+    "qty": 10,
+    "price": 305.38,
+    "reason": [
+      "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.86%), long.",
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.98%)."
+    ]
   }
 ]
