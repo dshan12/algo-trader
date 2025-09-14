@@ -5488,5 +5488,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.63, short VZ."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:22:50.578615",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 3,
+    "price": 780.47,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 best 1\u2011week performers (5.67%), short."
+    ]
   }
 ]
