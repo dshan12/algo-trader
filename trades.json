@@ -5639,5 +5639,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:23:57.085776",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 14,
+    "price": 182.54,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-2.84%), long."
+    ]
   }
 ]
