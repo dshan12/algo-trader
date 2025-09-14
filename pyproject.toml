@@ -6,6 +6,7 @@ requires-python = ">=3.8"
 dependencies = [
   "alpaca-trade-api>=3.2.0",
   "backtrader>=1.9.78.123",
+  "matplotlib>=3.7.5",
   "pandas>=2.0.3",
   "pygithub>=2.6.1",
   "python-dotenv>=1.0.1",
