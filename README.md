@@ -121,7 +121,7 @@ Run `generate_stats.py` after you have trading history or a backtest; it writes:
 **Charts**
 - `report/equity_curve.png`  
 - `report/drawdown.png`  
-- `report/rolling_sharpe_60d.png`  
+- `report/rolling_sharpe_30d.png`  
 - `report/equity_vs_spy.png`
 
 **Tables/CSVs**
