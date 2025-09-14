@@ -346,6 +346,8 @@ def plot_rolling_sharpe(daily_returns: pd.Series, window=ROLLING_SHARPE_WINDOW):
     roll = daily_returns.rolling(window).mean() / daily_returns.rolling(window).std(
         ddof=0
     )
+    if roll.dropna().empty:
+        return None
     plt.figure()
     plt.plot(roll.index, roll.values, label=f"Rolling Sharpe ({window}d)")
     plt.title("Rolling Sharpe")
@@ -442,7 +444,9 @@ def main():
         print("\nNo portfolio history returned; cannot compute lifetime stats.")
         return
 
-    daily_returns = equity.pct_change().replace([np.inf, -np.inf], np.nan)
+    # daily_returns = equity.pct_change().replace([np.inf, -np.inf], np.nan)
+    daily_returns = equity.pct_change().replace([np.inf, -np.inf], np.nan).fillna(0)
+
     monthly = monthly_table(daily_returns)
     if not monthly.empty:
         monthly.to_csv(os.path.join(REPORT_DIR, "monthly_returns_heatmap.csv"))
