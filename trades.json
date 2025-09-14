@@ -5528,5 +5528,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-4.01%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-14T21:23:07.823758",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 5,
+    "price": 449.55,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-3.68%), long."
+    ]
   }
 ]
