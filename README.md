@@ -65,8 +65,6 @@ pip install -r requirements.txt
 - Optional:
   - `APCA_API_BASE_URL` (defaults to paper: `https://paper-api.alpaca.markets`)
 
-> Never commit secrets to the repo.
-
 ---
 
 ## Usage
