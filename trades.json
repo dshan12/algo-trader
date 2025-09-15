@@ -5669,5 +5669,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:23:44.898287",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 7,
+    "price": 347.08,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-3.22%), long."
+    ]
   }
 ]
