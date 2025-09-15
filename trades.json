@@ -5750,5 +5750,15 @@
     "reason": [
       "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-7.66%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:24:16.934996",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 3,
+    "price": 748.31,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
