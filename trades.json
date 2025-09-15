@@ -5780,5 +5780,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:24:28.931914",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 1,
+    "price": 156.85,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
