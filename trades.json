@@ -5679,5 +5679,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-3.22%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:23:48.915300",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 13,
+    "price": 185.755,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
