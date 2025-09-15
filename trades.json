@@ -5790,5 +5790,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:24:33.027432",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 4,
+    "price": 43.87,
+    "reason": [
+      "Pairs Trading: GOOGL/VZ spread z\u2011score=4.15, long GOOGL."
+    ]
   }
 ]
