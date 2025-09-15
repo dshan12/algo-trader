@@ -5719,5 +5719,16 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (7.52%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:24:04.890129",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 6,
+    "price": 251.6,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (7.51%), short.",
+      "Pairs Trading: GOOGL/VZ spread z\u2011score=4.15, short VZ."
+    ]
   }
 ]
