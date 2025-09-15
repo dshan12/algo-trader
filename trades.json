@@ -5730,5 +5730,15 @@
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (7.51%), short.",
       "Pairs Trading: GOOGL/VZ spread z\u2011score=4.15, short VZ."
     ]
+  },
+  {
+    "timestamp": "2025-09-15T21:24:08.965653",
+    "symbol": "INTU",
+    "side": "sell",
+    "qty": 4,
+    "price": 650.865,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
