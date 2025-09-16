@@ -5800,5 +5800,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=4.15, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-09-16T21:23:38.363995",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 7,
+    "price": 352.66,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
