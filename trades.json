@@ -5911,5 +5911,15 @@
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-2.95%), long.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-16T21:24:23.135190",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 15,
+    "price": 174.89,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
