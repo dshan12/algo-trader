@@ -5961,5 +5961,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (5.38%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:21:55.174071",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 11,
+    "price": 220.75,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (4.33%), short."
+    ]
   }
 ]
