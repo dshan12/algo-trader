@@ -5951,5 +5951,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:21:51.352839",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 11,
+    "price": 238.98,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (5.38%), short."
+    ]
   }
 ]
