@@ -5991,5 +5991,15 @@
     "reason": [
       "Weekly Reversal: AXP was among the 10 best 1\u2011week performers (3.91%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:22:06.386897",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 8,
+    "price": 296.61,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-1.93%), long."
+    ]
   }
 ]
