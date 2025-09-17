@@ -5971,5 +5971,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (4.33%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:21:58.830936",
+    "symbol": "ACN",
+    "side": "sell",
+    "qty": 11,
+    "price": 241.27,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
