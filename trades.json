@@ -6082,5 +6082,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-2.61%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:22:40.806663",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 15,
+    "price": 170.21,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.97%), long."
+    ]
   }
 ]
