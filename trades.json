@@ -6042,5 +6042,15 @@
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (4.33%), short.",
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.82, short VZ."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:22:25.615834",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 8,
+    "price": 311.68,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
