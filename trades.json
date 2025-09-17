@@ -6001,5 +6001,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-1.93%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-17T21:22:10.159644",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 11,
+    "price": 242.165,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
