@@ -6202,5 +6202,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (24.27%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-18T21:24:39.990132",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 780.185,
+    "reason": [
+      "Weekly Reversal: META was among the 10 best 1\u2011week performers (3.94%), short."
+    ]
   }
 ]
