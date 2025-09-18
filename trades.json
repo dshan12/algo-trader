@@ -6222,5 +6222,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-18T21:24:47.643049",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 110,
+    "price": 24.14,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
