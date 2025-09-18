@@ -6192,5 +6192,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 best 1\u2011week performers (5.52%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-18T21:24:35.951468",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 85,
+    "price": 30.58,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (24.27%), short."
+    ]
   }
 ]
