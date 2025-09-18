@@ -6152,5 +6152,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (4.82%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-18T21:24:19.940244",
+    "symbol": "AXP",
+    "side": "buy",
+    "qty": 6,
+    "price": 341.84,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
