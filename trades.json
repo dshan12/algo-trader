@@ -6242,5 +6242,15 @@
     "reason": [
       "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.66%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-18T21:24:56.170847",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 13,
+    "price": 181.61,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
