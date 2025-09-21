@@ -6353,5 +6353,15 @@
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (5.78%), short.",
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.92, short VZ."
     ]
+  },
+  {
+    "timestamp": "2025-09-21T21:23:01.418830",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 9,
+    "price": 266.52,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (5.11%), short."
+    ]
   }
 ]
