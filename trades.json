@@ -6282,5 +6282,15 @@
     "reason": [
       "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (4.88%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-21T21:22:30.549429",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 7,
+    "price": 365.92,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
