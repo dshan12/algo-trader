@@ -6292,5 +6292,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-21T21:22:35.076568",
+    "symbol": "AXP",
+    "side": "buy",
+    "qty": 1,
+    "price": 340.98,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
+    ]
   }
 ]
