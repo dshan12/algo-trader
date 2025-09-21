@@ -6322,5 +6322,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-4.10%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-21T21:22:48.236544",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 23,
+    "price": 113.75,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-1.90%), long."
+    ]
   }
 ]
