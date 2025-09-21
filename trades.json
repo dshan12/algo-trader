@@ -6394,5 +6394,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (6.48%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-21T21:23:19.711779",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 9,
+    "price": 265.205,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-2.44%), long."
+    ]
   }
 ]
