@@ -6484,5 +6484,15 @@
     "reason": [
       "Pairs Trading: GOOGL/VZ spread z\u2011score=3.74, short VZ."
     ]
+  },
+  {
+    "timestamp": "2025-09-22T21:23:30.253046",
+    "symbol": "HD",
+    "side": "buy",
+    "qty": 6,
+    "price": 412.26,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-2.53%), long."
+    ]
   }
 ]
