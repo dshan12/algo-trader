@@ -6504,5 +6504,15 @@
     "reason": [
       "Low Volatility: ICE is in the lowest decile of 60\u2011day vol (0.85%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-22T21:23:38.129147",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 6,
+    "price": 444.52,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
