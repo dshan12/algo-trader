@@ -6555,5 +6555,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (5.27%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-22T21:23:57.767168",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 2,
+    "price": 43.165,
+    "reason": [
+      "Pairs Trading: GOOGL/VZ spread z\u2011score=3.74, long GOOGL."
+    ]
   }
 ]
