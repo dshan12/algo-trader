@@ -6675,5 +6675,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 worst 1\u2011week performers (-2.81%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-23T21:24:12.200302",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 755.7,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-3.03%), long."
+    ]
   }
 ]
