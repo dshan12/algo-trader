@@ -6796,5 +6796,15 @@
       "Weekly Reversal: GE was among the 10 best 1\u2011week performers (3.73%), short.",
       "Pairs Trading: GE/HON spread z\u2011score=2.85, short HON."
     ]
+  },
+  {
+    "timestamp": "2025-09-24T21:23:36.256236",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 52,
+    "price": 247.09,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -13.4% based on baseline allocation."
+    ]
   }
 ]
