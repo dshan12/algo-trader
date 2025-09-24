@@ -6816,5 +6816,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-24T21:23:43.450597",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 62,
+    "price": 208.63,
+    "reason": [
+      "Pairs Trading: GE/HON spread z\u2011score=2.85, long GE."
+    ]
   }
 ]
