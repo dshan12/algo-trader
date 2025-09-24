@@ -6765,5 +6765,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-24T21:23:25.198393",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 14,
+    "price": 185.89,
+    "reason": [
+      "Weekly Reversal: DHR was among the 10 worst 1\u2011week performers (-3.64%), long."
+    ]
   }
 ]
