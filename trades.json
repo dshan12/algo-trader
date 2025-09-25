@@ -7057,5 +7057,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (11.19%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:17.655488",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 14,
+    "price": 177.74,
+    "reason": [
+      "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (2.05%), short."
+    ]
   }
 ]
