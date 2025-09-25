@@ -6927,5 +6927,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 13.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:22:25.530063",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 1,
+    "price": 354.21,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
+    ]
   }
 ]
