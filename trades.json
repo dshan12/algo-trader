@@ -7147,5 +7147,15 @@
     "reason": [
       "Weekly Reversal: TMO was among the 10 worst 1\u2011week performers (-4.55%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:53.241197",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 5,
+    "price": 423.34,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
