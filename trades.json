@@ -6997,5 +6997,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (3.56%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:22:53.434082",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 8,
+    "price": 316.745,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
