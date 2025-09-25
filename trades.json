@@ -7047,5 +7047,15 @@
     "reason": [
       "Low Volatility: ICE is in the lowest decile of 60\u2011day vol (0.84%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:13.371393",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 7,
+    "price": 34.11,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (11.19%), short."
+    ]
   }
 ]
