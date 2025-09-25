@@ -7127,5 +7127,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.95%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:45.106500",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 14,
+    "price": 169.635,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
