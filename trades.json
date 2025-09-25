@@ -6947,5 +6947,15 @@
     "reason": [
       "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (2.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:22:33.418182",
+    "symbol": "BDX",
+    "side": "buy",
+    "qty": 14,
+    "price": 180.61,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-4.13%), long."
+    ]
   }
 ]
