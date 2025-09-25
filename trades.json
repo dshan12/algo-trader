@@ -7137,5 +7137,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:49.241430",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 5,
+    "price": 459.06,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 worst 1\u2011week performers (-4.55%), long."
+    ]
   }
 ]
