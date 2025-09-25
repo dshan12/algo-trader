@@ -7087,5 +7087,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.02%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:23:29.480210",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 33,
+    "price": 77.59,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-4.82%), long."
+    ]
   }
 ]
