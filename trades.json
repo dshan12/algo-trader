@@ -6957,5 +6957,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-4.13%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-25T21:22:37.355853",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 5,
+    "price": 463.75,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
