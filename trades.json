@@ -7167,5 +7167,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (3.21%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-28T21:21:45.707211",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 16,
+    "price": 159.45,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
