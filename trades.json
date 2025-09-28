@@ -7217,5 +7217,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 best 1\u2011week performers (3.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-28T21:22:09.375237",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 10,
+    "price": 246.45,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-3.21%), long."
+    ]
   }
 ]
