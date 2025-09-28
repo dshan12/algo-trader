@@ -7187,5 +7187,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-4.36%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-28T21:21:55.023645",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 14,
+    "price": 184.53,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
