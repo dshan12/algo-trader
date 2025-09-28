@@ -7197,5 +7197,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-28T21:21:59.702976",
+    "symbol": "CB",
+    "side": "buy",
+    "qty": 8,
+    "price": 280.69,
+    "reason": [
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (0.94%)."
+    ]
   }
 ]
