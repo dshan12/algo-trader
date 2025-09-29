@@ -7428,5 +7428,15 @@
       "Weekly Reversal: CB was among the 10 best 1\u2011week performers (2.40%), short.",
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (0.93%)."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:43.773446",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 1,
+    "price": 272.16,
+    "reason": [
+      "Weekly Reversal: CME was among the 10 best 1\u2011week performers (4.27%), short."
+    ]
   }
 ]
