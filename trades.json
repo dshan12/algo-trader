@@ -7397,5 +7397,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:29.608658",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 8,
+    "price": 327.87,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-3.21%), long."
+    ]
   }
 ]
