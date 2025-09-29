@@ -7407,5 +7407,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-3.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:34.295689",
+    "symbol": "BLK",
+    "side": "sell",
+    "qty": 2,
+    "price": 1173.22,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 best 1\u2011week performers (3.46%), short."
+    ]
   }
 ]
