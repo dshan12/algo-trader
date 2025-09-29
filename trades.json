@@ -7357,5 +7357,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (3.90%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:11.719734",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 9,
+    "price": 254.37,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
