@@ -7387,5 +7387,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-4.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:25.136656",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 11,
+    "price": 222.15,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
