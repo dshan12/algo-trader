@@ -7417,5 +7417,16 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 best 1\u2011week performers (3.46%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:23:39.217563",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 8,
+    "price": 279.56,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (2.40%), short.",
+      "Low Volatility: CB is in the lowest decile of 60\u2011day vol (0.93%)."
+    ]
   }
 ]
