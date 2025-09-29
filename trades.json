@@ -7548,5 +7548,15 @@
     "reason": [
       "Weekly Reversal: JNJ was among the 10 best 1\u2011week performers (4.25%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:24:37.370015",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 1,
+    "price": 66.05,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.83%)."
+    ]
   }
 ]
