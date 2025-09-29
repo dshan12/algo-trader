@@ -7488,5 +7488,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-2.95%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:24:10.204893",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 2,
+    "price": 293.565,
+    "reason": [
+      "Pairs Trading: GE/HON spread z\u2011score=2.54, short HON."
+    ]
   }
 ]
