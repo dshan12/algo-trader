@@ -7508,5 +7508,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-3.37%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:24:19.330404",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 1,
+    "price": 244.125,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-3.36%), long."
+    ]
   }
 ]
