@@ -7518,5 +7518,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-3.36%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-29T21:24:23.783633",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 4,
+    "price": 209.06,
+    "reason": [
+      "Pairs Trading: GE/HON spread z\u2011score=2.54, long GE."
+    ]
   }
 ]
