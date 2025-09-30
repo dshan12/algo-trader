@@ -7768,5 +7768,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-2.97%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-30T21:24:55.835042",
+    "symbol": "HON",
+    "side": "sell",
+    "qty": 66,
+    "price": 210.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 14.5% based on baseline allocation."
+    ]
   }
 ]
