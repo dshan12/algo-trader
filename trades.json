@@ -7860,5 +7860,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (4.57%), short."
     ]
+  },
+  {
+    "timestamp": "2025-09-30T21:25:37.931651",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 102,
+    "price": 25.47,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 best 1\u2011week performers (5.59%), short."
+    ]
   }
 ]
