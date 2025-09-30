@@ -7708,5 +7708,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-3.09%), long."
     ]
+  },
+  {
+    "timestamp": "2025-09-30T21:24:27.652050",
+    "symbol": "DE",
+    "side": "buy",
+    "qty": 5,
+    "price": 457.05,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 worst 1\u2011week performers (-3.06%), long."
+    ]
   }
 ]
