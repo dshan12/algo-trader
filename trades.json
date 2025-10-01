@@ -8052,5 +8052,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (13.13%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:24:59.096203",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 6,
+    "price": 27.225,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 best 1\u2011week performers (12.95%), short."
+    ]
   }
 ]
