@@ -8062,5 +8062,15 @@
     "reason": [
       "Weekly Reversal: PFE was among the 10 best 1\u2011week performers (12.95%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:25:03.724016",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 15,
+    "price": 166.515,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-4.07%), long."
+    ]
   }
 ]
