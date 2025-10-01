@@ -8072,5 +8072,15 @@
     "reason": [
       "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-4.07%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:25:08.367033",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 16,
+    "price": 167.265,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
