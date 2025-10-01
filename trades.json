@@ -7890,5 +7890,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (4.43%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:23:46.603748",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 10,
+    "price": 244.39,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (11.09%), short."
+    ]
   }
 ]
