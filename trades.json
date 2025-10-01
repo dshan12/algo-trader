@@ -8011,5 +8011,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (15.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:24:41.037481",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 14,
+    "price": 186.05,
+    "reason": [
+      "Pairs Trading: JNJ/KO spread z\u2011score=3.45, short KO."
+    ]
   }
 ]
