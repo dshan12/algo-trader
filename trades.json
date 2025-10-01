@@ -8001,5 +8001,15 @@
       "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-3.22%), long.",
       "Low Volatility: ICE is in the lowest decile of 60\u2011day vol (0.93%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:24:36.491593",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 7,
+    "price": 35.935,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (15.12%), short."
+    ]
   }
 ]
