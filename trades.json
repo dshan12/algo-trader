@@ -8021,5 +8021,16 @@
     "reason": [
       "Pairs Trading: JNJ/KO spread z\u2011score=3.45, short KO."
     ]
+  },
+  {
+    "timestamp": "2025-10-01T21:24:45.365101",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 3,
+    "price": 66.78,
+    "reason": [
+      "Pairs Trading: JNJ/KO spread z\u2011score=3.45, long JNJ.",
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.83%)."
+    ]
   }
 ]
