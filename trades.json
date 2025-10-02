@@ -8202,5 +8202,16 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 best 1\u2011week performers (9.74%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-02T21:23:18.158879",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 1,
+    "price": 66.12,
+    "reason": [
+      "Pairs Trading: JNJ/KO spread z\u2011score=3.45, long JNJ.",
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.83%)."
+    ]
   }
 ]
