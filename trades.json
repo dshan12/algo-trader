@@ -8213,5 +8213,15 @@
       "Pairs Trading: JNJ/KO spread z\u2011score=3.45, long JNJ.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.83%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-02T21:23:21.970587",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 727.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
