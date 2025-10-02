@@ -8223,5 +8223,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-02T21:23:25.521217",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 2,
+    "price": 1162.35,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-3.78%), long."
+    ]
   }
 ]
