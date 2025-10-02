@@ -8112,5 +8112,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-3.85%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-02T21:22:44.329366",
+    "symbol": "AXP",
+    "side": "sell",
+    "qty": 7,
+    "price": 330.52,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
