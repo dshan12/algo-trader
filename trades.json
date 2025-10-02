@@ -8263,5 +8263,15 @@
     "reason": [
       "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.71%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-02T21:23:40.166922",
+    "symbol": "QCOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 168.86,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
