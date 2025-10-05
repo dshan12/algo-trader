@@ -8383,5 +8383,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.46%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:22:09.024893",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 34,
+    "price": 71.955,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
