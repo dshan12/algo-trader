@@ -8283,5 +8283,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 worst 1\u2011week performers (-3.72%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:21:33.607676",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 1,
+    "price": 233.895,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (6.03%), short."
+    ]
   }
 ]
