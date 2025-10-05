@@ -8303,5 +8303,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-3.78%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:21:40.723589",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 5,
+    "price": 498.06,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (6.89%), short."
+    ]
   }
 ]
