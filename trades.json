@@ -8353,5 +8353,15 @@
     "reason": [
       "Low Volatility: ICE is in the lowest decile of 60\u2011day vol (0.95%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:21:58.456145",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 70,
+    "price": 36.82,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
