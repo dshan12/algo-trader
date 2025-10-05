@@ -8343,5 +8343,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-3.67%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:21:54.945992",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 15,
+    "price": 162.58,
+    "reason": [
+      "Low Volatility: ICE is in the lowest decile of 60\u2011day vol (0.95%)."
+    ]
   }
 ]
