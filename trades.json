@@ -8323,5 +8323,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 best 1\u2011week performers (8.68%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:21:47.906853",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 85,
+    "price": 30.895,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
