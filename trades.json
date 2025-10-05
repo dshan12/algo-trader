@@ -8373,5 +8373,15 @@
     "reason": [
       "Pairs Trading: JNJ/KO spread z\u2011score=3.61, short KO."
     ]
+  },
+  {
+    "timestamp": "2025-10-05T21:22:05.471094",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 710.775,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.46%), long."
+    ]
   }
 ]
