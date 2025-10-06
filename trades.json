@@ -8453,5 +8453,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-4.62%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-06T21:23:09.486441",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 51,
+    "price": 50.37,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 worst 1\u2011week performers (-3.87%), long."
+    ]
   }
 ]
