@@ -8473,5 +8473,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-06T21:23:17.415563",
+    "symbol": "CME",
+    "side": "buy",
+    "qty": 9,
+    "price": 262.0,
+    "reason": [
+      "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-3.74%), long."
+    ]
   }
 ]
