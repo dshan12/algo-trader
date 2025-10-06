@@ -8483,5 +8483,15 @@
     "reason": [
       "Weekly Reversal: CME was among the 10 worst 1\u2011week performers (-3.74%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-06T21:23:21.175503",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 26,
+    "price": 94.91,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
