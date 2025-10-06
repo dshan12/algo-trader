@@ -8533,5 +8533,15 @@
     "reason": [
       "Low Volatility: MA is in the lowest decile of 60\u2011day vol (0.94%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-06T21:23:40.359426",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 2,
+    "price": 1163.37,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
