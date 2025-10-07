@@ -8563,5 +8563,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-07T21:22:52.691140",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 51,
+    "price": 50.28,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
