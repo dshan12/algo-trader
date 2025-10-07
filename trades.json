@@ -8553,5 +8553,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-4.18%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-07T21:22:48.075190",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 13,
+    "price": 186.92,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
