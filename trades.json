@@ -8643,5 +8643,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-07T21:23:30.214006",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 14,
+    "price": 177.02,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-3.64%), long."
+    ]
   }
 ]
