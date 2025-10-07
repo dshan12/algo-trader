@@ -8623,5 +8623,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-07T21:23:21.063924",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 188,
+    "price": 68.93,
+    "reason": [
+      "Pairs Trading: JNJ/NKE spread z\u2011score=2.61, long JNJ."
+    ]
   }
 ]
