@@ -8633,5 +8633,15 @@
     "reason": [
       "Pairs Trading: JNJ/NKE spread z\u2011score=2.61, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2025-10-07T21:23:25.540328",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 96,
+    "price": 26.265,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
