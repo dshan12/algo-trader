@@ -8723,5 +8723,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (4.43%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-08T21:24:27.893399",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 3,
+    "price": 803.74,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 best 1\u2011week performers (3.83%), short."
+    ]
   }
 ]
