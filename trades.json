@@ -8713,5 +8713,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-4.00%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-08T21:24:24.226638",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 5,
+    "price": 502.3,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (4.43%), short."
+    ]
   }
 ]
