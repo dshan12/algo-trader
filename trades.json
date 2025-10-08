@@ -8774,5 +8774,15 @@
       "Pairs Trading: JNJ/KO spread z\u2011score=3.57, long JNJ.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.86%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-08T21:24:46.402013",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 3,
+    "price": 845.42,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
