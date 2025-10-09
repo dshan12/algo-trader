@@ -8934,5 +8934,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 best 1\u2011week performers (2.85%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:23:47.686936",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 1,
+    "price": 116.735,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (5.59%), short."
+    ]
   }
 ]
