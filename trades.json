@@ -8904,5 +8904,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-3.06%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:23:36.675321",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 5,
+    "price": 500.67,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
