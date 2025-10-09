@@ -9066,5 +9066,15 @@
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-8.73%), long.",
       "Pairs Trading: JNJ/NKE spread z\u2011score=2.77, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:24:35.497975",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 7,
+    "price": 25.235,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-6.79%), long."
+    ]
   }
 ]
