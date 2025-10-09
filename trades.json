@@ -9086,5 +9086,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:24:42.747276",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 4,
+    "price": 40.84,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-5.92%), long."
+    ]
   }
 ]
