@@ -8944,5 +8944,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (5.59%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:23:51.365619",
+    "symbol": "HD",
+    "side": "buy",
+    "qty": 7,
+    "price": 377.72,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-4.38%), long."
+    ]
   }
 ]
