@@ -8924,5 +8924,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (0.92%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:23:43.992989",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 2,
+    "price": 942.8,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 best 1\u2011week performers (2.85%), short."
+    ]
   }
 ]
