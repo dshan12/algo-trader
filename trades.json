@@ -8964,5 +8964,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-3.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:23:58.646551",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 70,
+    "price": 37.8,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
