@@ -8995,5 +8995,15 @@
       "Pairs Trading: JNJ/NKE spread z\u2011score=2.77, short NKE.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.89%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:24:09.758260",
+    "symbol": "KO",
+    "side": "sell",
+    "qty": 192,
+    "price": 66.37,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.86%)."
+    ]
   }
 ]
