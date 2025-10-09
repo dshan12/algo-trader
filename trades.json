@@ -9045,5 +9045,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-09T21:24:28.237450",
+    "symbol": "MRK",
+    "side": "sell",
+    "qty": 29,
+    "price": 87.47,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
