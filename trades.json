@@ -9166,5 +9166,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-12T21:22:53.799216",
+    "symbol": "HON",
+    "side": "sell",
+    "qty": 13,
+    "price": 200.825,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
