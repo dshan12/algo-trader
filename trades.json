@@ -9156,5 +9156,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-6.92%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-12T21:22:49.326888",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 6,
+    "price": 375.72,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
