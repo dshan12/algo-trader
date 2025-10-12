@@ -9278,5 +9278,16 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-12T21:23:44.096396",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 341,
+    "price": 39.85,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-8.75%), long.",
+      "Pairs Trading: JNJ/VZ spread z\u2011score=3.53, long JNJ."
+    ]
   }
 ]
