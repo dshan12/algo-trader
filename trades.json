@@ -9268,5 +9268,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 worst 1\u2011week performers (-5.33%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-12T21:23:39.628568",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 7,
+    "price": 354.435,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
