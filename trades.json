@@ -9176,5 +9176,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-12T21:22:58.379917",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 6,
+    "price": 429.55,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 worst 1\u2011week performers (-5.03%), long."
+    ]
   }
 ]
