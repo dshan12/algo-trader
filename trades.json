@@ -9319,5 +9319,15 @@
     "reason": [
       "Pairs Trading: CAT/HON spread z\u2011score=3.52, short HON."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:23:34.793657",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 87,
+    "price": 29.4,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-5.40%), long."
+    ]
   }
 ]
