@@ -9369,5 +9369,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:23:57.792370",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 1,
+    "price": 118.23,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (4.08%), short."
+    ]
   }
 ]
