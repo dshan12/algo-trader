@@ -9399,5 +9399,15 @@
     "reason": [
       "Pairs Trading: CAT/HON spread z\u2011score=3.52, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:24:11.507275",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 9,
+    "price": 277.16,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-4.22%), long."
+    ]
   }
 ]
