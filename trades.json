@@ -9339,5 +9339,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (2.55%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:23:43.983686",
+    "symbol": "DE",
+    "side": "buy",
+    "qty": 5,
+    "price": 439.185,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 worst 1\u2011week performers (-3.98%), long."
+    ]
   }
 ]
