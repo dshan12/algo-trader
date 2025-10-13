@@ -9479,5 +9479,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-3.83%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:24:48.714760",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 342,
+    "price": 39.735,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-4.08%), long."
+    ]
   }
 ]
