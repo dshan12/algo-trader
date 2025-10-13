@@ -9389,5 +9389,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:24:06.800665",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 63,
+    "price": 202.82,
+    "reason": [
+      "Pairs Trading: CAT/HON spread z\u2011score=3.52, long CAT."
+    ]
   }
 ]
