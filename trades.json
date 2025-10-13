@@ -9329,5 +9329,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-5.40%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:23:39.378019",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 508.46,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (2.55%), short."
+    ]
   }
 ]
