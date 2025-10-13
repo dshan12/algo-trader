@@ -9439,5 +9439,15 @@
     "reason": [
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (0.82%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:24:30.067072",
+    "symbol": "LOW",
+    "side": "sell",
+    "qty": 11,
+    "price": 234.44,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
