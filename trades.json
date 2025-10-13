@@ -9309,5 +9309,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (6.32%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-13T21:23:29.962946",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 25,
+    "price": 504.97,
+    "reason": [
+      "Pairs Trading: CAT/HON spread z\u2011score=3.52, short HON."
+    ]
   }
 ]
