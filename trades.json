@@ -9580,5 +9580,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 worst 1\u2011week performers (-2.94%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:24:04.768145",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 22,
+    "price": 118.49,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
