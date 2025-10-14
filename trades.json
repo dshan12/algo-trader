@@ -9610,5 +9610,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-4.14%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:24:16.773370",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 3,
+    "price": 812.595,
+    "reason": [
+      "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-3.71%), long."
+    ]
   }
 ]
