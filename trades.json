@@ -9721,5 +9721,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 best 1\u2011week performers (4.21%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:24:59.049885",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 25,
+    "price": 107.235,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 best 1\u2011week performers (3.85%), short."
+    ]
   }
 ]
