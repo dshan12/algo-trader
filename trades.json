@@ -9701,5 +9701,15 @@
     "reason": [
       "Pairs Trading: CAT/TXN spread z\u2011score=3.99, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:24:51.377449",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 65,
+    "price": 40.56,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
