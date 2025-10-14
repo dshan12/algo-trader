@@ -9570,5 +9570,15 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (3.29%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:24:00.809658",
+    "symbol": "DE",
+    "side": "buy",
+    "qty": 1,
+    "price": 447.925,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 worst 1\u2011week performers (-2.94%), long."
+    ]
   }
 ]
