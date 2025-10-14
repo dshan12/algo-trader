@@ -9509,5 +9509,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-3.55%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-14T21:23:37.691045",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 7,
+    "price": 343.65,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
