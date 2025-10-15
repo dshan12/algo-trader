@@ -9851,5 +9851,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (2.62%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:25:07.041168",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 66,
+    "price": 202.53,
+    "reason": [
+      "Pairs Trading: CAT/HON spread z\u2011score=4.04, long CAT."
+    ]
   }
 ]
