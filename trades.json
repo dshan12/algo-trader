@@ -9771,5 +9771,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-4.28%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:30.521783",
+    "symbol": "BAC",
+    "side": "sell",
+    "qty": 51,
+    "price": 52.31,
+    "reason": [
+      "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (4.90%), short."
+    ]
   }
 ]
