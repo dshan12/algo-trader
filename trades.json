@@ -9781,5 +9781,15 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (4.90%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:35.083166",
+    "symbol": "BDX",
+    "side": "buy",
+    "qty": 14,
+    "price": 186.815,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-3.69%), long."
+    ]
   }
 ]
