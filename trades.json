@@ -9861,5 +9861,15 @@
     "reason": [
       "Pairs Trading: CAT/HON spread z\u2011score=4.04, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:25:11.969500",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 9,
+    "price": 280.94,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
