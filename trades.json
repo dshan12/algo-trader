@@ -9911,5 +9911,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-4.91%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:25:34.894186",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 17,
+    "price": 157.73,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
