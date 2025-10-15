@@ -9811,5 +9811,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-3.97%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:48.824207",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 5,
+    "price": 489.08,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-4.10%), long."
+    ]
   }
 ]
