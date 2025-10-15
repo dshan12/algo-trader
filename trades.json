@@ -9841,5 +9841,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:25:02.267233",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 10,
+    "price": 251.11,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (2.62%), short."
+    ]
   }
 ]
