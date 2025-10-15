@@ -9821,5 +9821,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-4.10%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:53.301879",
+    "symbol": "DE",
+    "side": "sell",
+    "qty": 5,
+    "price": 448.505,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
