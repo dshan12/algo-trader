@@ -9801,5 +9801,15 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 best 1\u2011week performers (3.23%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:44.161976",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 9,
+    "price": 294.8,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-3.97%), long."
+    ]
   }
 ]
