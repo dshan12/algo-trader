@@ -9831,5 +9831,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-15T21:24:57.788306",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 3,
+    "price": 822.48,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
