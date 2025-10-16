@@ -9961,5 +9961,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:22:45.833478",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 14,
+    "price": 185.35,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
