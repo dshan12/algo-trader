@@ -9941,5 +9941,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-4.26%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:22:36.888979",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 14,
+    "price": 191.54,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (3.32%), short."
+    ]
   }
 ]
