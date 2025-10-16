@@ -10032,5 +10032,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 14.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:23:17.903331",
+    "symbol": "LOW",
+    "side": "sell",
+    "qty": 11,
+    "price": 243.11,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 best 1\u2011week performers (3.59%), short."
+    ]
   }
 ]
