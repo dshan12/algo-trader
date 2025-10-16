@@ -9951,5 +9951,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (3.32%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:22:41.444399",
+    "symbol": "BAC",
+    "side": "buy",
+    "qty": 51,
+    "price": 50.43,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
