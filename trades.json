@@ -10062,5 +10062,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:23:31.611983",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 76,
+    "price": 175.49,
+    "reason": [
+      "Pairs Trading: CAT/TXN spread z\u2011score=4.05, long CAT."
+    ]
   }
 ]
