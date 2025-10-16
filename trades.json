@@ -10042,5 +10042,15 @@
     "reason": [
       "Weekly Reversal: LOW was among the 10 best 1\u2011week performers (3.59%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-16T21:23:22.494884",
+    "symbol": "PFE",
+    "side": "sell",
+    "qty": 107,
+    "price": 24.23,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
