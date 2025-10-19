@@ -10253,5 +10253,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-3.68%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:43.608962",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 11,
+    "price": 244.73,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
