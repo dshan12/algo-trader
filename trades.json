@@ -10183,5 +10183,15 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (5.93%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:16.078656",
+    "symbol": "EOG",
+    "side": "buy",
+    "qty": 23,
+    "price": 106.25,
+    "reason": [
+      "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-1.71%), long."
+    ]
   }
 ]
