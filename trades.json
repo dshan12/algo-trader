@@ -10193,5 +10193,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-1.71%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:20.027094",
+    "symbol": "GS",
+    "side": "buy",
+    "qty": 3,
+    "price": 750.6,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 worst 1\u2011week performers (-1.78%), long."
+    ]
   }
 ]
