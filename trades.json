@@ -10213,5 +10213,15 @@
     "reason": [
       "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-2.48%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:27.833116",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 12,
+    "price": 193.22,
+    "reason": [
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.84%)."
+    ]
   }
 ]
