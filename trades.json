@@ -10203,5 +10203,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 worst 1\u2011week performers (-1.78%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:23.891357",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 16,
+    "price": 153.54,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-2.48%), long."
+    ]
   }
 ]
