@@ -10283,5 +10283,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-1.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:23:55.146968",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 15,
+    "price": 183.165,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
