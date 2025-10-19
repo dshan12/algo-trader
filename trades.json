@@ -10303,5 +10303,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.94%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:24:03.061679",
+    "symbol": "QCOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 163.4,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (6.42%), short."
+    ]
   }
 ]
