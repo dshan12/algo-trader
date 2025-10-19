@@ -10072,5 +10072,15 @@
     "reason": [
       "Pairs Trading: CAT/TXN spread z\u2011score=4.05, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-10-19T21:22:33.792647",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 1,
+    "price": 128.515,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-3.04%), long."
+    ]
   }
 ]
