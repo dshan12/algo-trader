@@ -10394,5 +10394,15 @@
     "reason": [
       "Weekly Reversal: BAC was among the 10 best 1\u2011week performers (6.51%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:25:29.595377",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 29,
+    "price": 87.06,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-1.94%), long."
+    ]
   }
 ]
