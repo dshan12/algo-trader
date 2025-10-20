@@ -10404,5 +10404,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-1.94%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:25:33.745639",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 5,
+    "price": 503.64,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
