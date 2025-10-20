@@ -10374,5 +10374,15 @@
       "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (11.15%), short.",
       "Pairs Trading: AMD/TXN spread z\u2011score=4.15, short TXN."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:25:21.243156",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 13,
+    "price": 192.98,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 best 1\u2011week performers (5.39%), short."
+    ]
   }
 ]
