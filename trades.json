@@ -10414,5 +10414,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:25:37.812169",
+    "symbol": "DE",
+    "side": "sell",
+    "qty": 5,
+    "price": 462.675,
+    "reason": [
+      "Weekly Reversal: DE was among the 10 best 1\u2011week performers (5.31%), short."
+    ]
   }
 ]
