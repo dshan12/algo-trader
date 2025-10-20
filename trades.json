@@ -10504,5 +10504,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:26:15.126480",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 5,
+    "price": 446.54,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
