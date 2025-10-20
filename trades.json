@@ -10343,5 +10343,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 best 1\u2011week performers (7.29%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:25:08.785536",
+    "symbol": "AAPL",
+    "side": "sell",
+    "qty": 9,
+    "price": 262.245,
+    "reason": [
+      "Weekly Reversal: AAPL was among the 10 best 1\u2011week performers (5.89%), short."
+    ]
   }
 ]
