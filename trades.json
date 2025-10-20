@@ -10514,5 +10514,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-20T21:26:19.645137",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 2,
+    "price": 179.585,
+    "reason": [
+      "Pairs Trading: AMD/TXN spread z\u2011score=4.15, long AMD."
+    ]
   }
 ]
