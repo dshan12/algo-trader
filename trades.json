@@ -10634,5 +10634,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:25:45.313007",
+    "symbol": "DE",
+    "side": "buy",
+    "qty": 4,
+    "price": 459.78,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
