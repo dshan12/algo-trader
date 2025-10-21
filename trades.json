@@ -10554,5 +10554,15 @@
     "reason": [
       "Low Volatility: ADP is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:25:13.929948",
+    "symbol": "AMT",
+    "side": "buy",
+    "qty": 13,
+    "price": 192.395,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
