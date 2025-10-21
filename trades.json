@@ -10594,5 +10594,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:25:29.382167",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 2,
+    "price": 1130.75,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-5.38%), long."
+    ]
   }
 ]
