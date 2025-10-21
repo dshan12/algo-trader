@@ -10684,5 +10684,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:04.769413",
+    "symbol": "LIN",
+    "side": "buy",
+    "qty": 5,
+    "price": 450.0,
+    "reason": [
+      "Weekly Reversal: LIN was among the 10 worst 1\u2011week performers (-2.00%), long.",
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.88%)."
+    ]
   }
 ]
