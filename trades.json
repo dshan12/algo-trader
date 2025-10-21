@@ -10755,5 +10755,15 @@
     "reason": [
       "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (6.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:32.213297",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 71,
+    "price": 169.45,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 13.1% based on baseline allocation."
+    ]
   }
 ]
