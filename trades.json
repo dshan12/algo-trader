@@ -10695,5 +10695,15 @@
       "Weekly Reversal: LIN was among the 10 worst 1\u2011week performers (-2.00%), long.",
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.88%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:08.719967",
+    "symbol": "LLY",
+    "side": "buy",
+    "qty": 3,
+    "price": 799.43,
+    "reason": [
+      "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-1.57%), long."
+    ]
   }
 ]
