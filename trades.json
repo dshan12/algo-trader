@@ -10524,5 +10524,15 @@
     "reason": [
       "Pairs Trading: AMD/TXN spread z\u2011score=4.15, long AMD."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:25:02.061176",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 19,
+    "price": 127.54,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-4.30%), long."
+    ]
   }
 ]
