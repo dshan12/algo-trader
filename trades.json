@@ -10725,5 +10725,15 @@
     "reason": [
       "Pairs Trading: AMD/PFE spread z\u2011score=3.39, long AMD."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:20.436309",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 16,
+    "price": 152.0,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-4.44%), long."
+    ]
   }
 ]
