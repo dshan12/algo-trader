@@ -10564,5 +10564,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:25:17.796960",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 12,
+    "price": 222.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
