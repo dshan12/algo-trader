@@ -10745,5 +10745,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (8.56%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:28.368416",
+    "symbol": "TMO",
+    "side": "sell",
+    "qty": 4,
+    "price": 558.89,
+    "reason": [
+      "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (6.12%), short."
+    ]
   }
 ]
