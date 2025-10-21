@@ -10705,5 +10705,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-1.57%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-21T21:26:12.504902",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 13,
+    "price": 181.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
