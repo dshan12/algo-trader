@@ -10875,5 +10875,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (8.48%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:21:36.438798",
+    "symbol": "DE",
+    "side": "buy",
+    "qty": 1,
+    "price": 462.24,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.5% based on baseline allocation."
+    ]
   }
 ]
