@@ -11026,5 +11026,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:22:40.913864",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 1,
+    "price": 177.96,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (13.36%), short."
+    ]
   }
 ]
