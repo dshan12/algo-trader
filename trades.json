@@ -10775,5 +10775,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:20:52.597202",
+    "symbol": "AAPL",
+    "side": "buy",
+    "qty": 9,
+    "price": 258.4,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
