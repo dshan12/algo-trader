@@ -11056,5 +11056,15 @@
     "reason": [
       "Pairs Trading: JNJ/VZ spread z\u2011score=3.26, long JNJ."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:22:54.330080",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 33,
+    "price": 83.895,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-2.98%), long."
+    ]
   }
 ]
