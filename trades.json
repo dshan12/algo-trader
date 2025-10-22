@@ -10915,5 +10915,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-5.53%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:21:53.791514",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 65,
+    "price": 36.92,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
