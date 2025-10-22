@@ -11046,5 +11046,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-2.60%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:22:50.066539",
+    "symbol": "VZ",
+    "side": "buy",
+    "qty": 354,
+    "price": 39.82,
+    "reason": [
+      "Pairs Trading: JNJ/VZ spread z\u2011score=3.26, long JNJ."
+    ]
   }
 ]
