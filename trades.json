@@ -10805,5 +10805,15 @@
     "reason": [
       "Low Volatility: ADP is in the lowest decile of 60\u2011day vol (0.97%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-22T21:21:06.092473",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 8,
+    "price": 340.43,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-3.14%), long."
+    ]
   }
 ]
