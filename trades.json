@@ -11116,5 +11116,15 @@
     "reason": [
       "Weekly Reversal: CB was among the 10 best 1\u2011week performers (5.48%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-23T21:22:54.200458",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 9,
+    "price": 305.04,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
