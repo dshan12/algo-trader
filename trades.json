@@ -11156,5 +11156,15 @@
     "reason": [
       "Weekly Reversal: CSX was among the 10 worst 1\u2011week performers (-1.28%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-23T21:23:12.860344",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 6,
+    "price": 372.445,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
+    ]
   }
 ]
