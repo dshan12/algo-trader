@@ -11106,5 +11106,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-0.99%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-23T21:22:49.585752",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 9,
+    "price": 283.02,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (5.48%), short."
+    ]
   }
 ]
