@@ -11096,5 +11096,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -16.6% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-23T21:22:44.926267",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 9,
+    "price": 292.74,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-0.99%), long."
+    ]
   }
 ]
