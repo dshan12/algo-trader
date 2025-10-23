@@ -11066,5 +11066,15 @@
     "reason": [
       "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-2.98%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-23T21:22:31.068510",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 20,
+    "price": 126.32,
+    "reason": [
+      "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-1.01%), long."
+    ]
   }
 ]
