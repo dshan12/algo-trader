@@ -11328,5 +11328,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:23:59.600532",
+    "symbol": "CB",
+    "side": "buy",
+    "qty": 9,
+    "price": 282.08,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
