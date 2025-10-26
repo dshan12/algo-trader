@@ -11490,5 +11490,15 @@
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-4.22%), long.",
       "Pairs Trading: AMD/TXN spread z\u2011score=4.50, long AMD."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:25:02.203469",
+    "symbol": "VZ",
+    "side": "sell",
+    "qty": 355,
+    "price": 38.84,
+    "reason": [
+      "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-4.27%), long."
+    ]
   }
 ]
