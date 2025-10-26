@@ -11358,5 +11358,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 best 1\u2011week performers (6.67%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:24:10.935258",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 342.27,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-1.84%), long."
+    ]
   }
 ]
