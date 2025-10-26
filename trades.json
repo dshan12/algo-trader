@@ -11308,5 +11308,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 worst 1\u2011week performers (-1.73%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:23:51.784547",
+    "symbol": "BRK.B",
+    "side": "buy",
+    "qty": 2,
+    "price": 492.07,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.85%)."
+    ]
   }
 ]
