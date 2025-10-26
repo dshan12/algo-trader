@@ -44,10 +44,10 @@ cc = CoveredCalls(weekly_premium=0.002)
 lv = LowVol(lookback=60, decile=0.1)
 blend = CompositeStrategy(
     {
-        rev: 0.30,
-        pairs: 0.30,
+        rev: 0.25,
+        pairs: 0.25,
         cc: 0.20,
-        lv: 0.20,
+        lv: 0.30,
     }
 )
 
