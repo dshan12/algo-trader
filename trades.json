@@ -11388,5 +11388,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-1.52%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:24:22.600633",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 7,
+    "price": 307.65,
+    "reason": [
+      "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (9.31%), short."
+    ]
   }
 ]
