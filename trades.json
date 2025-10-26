@@ -11500,5 +11500,15 @@
     "reason": [
       "Weekly Reversal: VZ was among the 10 worst 1\u2011week performers (-4.27%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:25:06.128684",
+    "symbol": "WMT",
+    "side": "buy",
+    "qty": 20,
+    "price": 106.21,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-1.45%), long."
+    ]
   }
 ]
