@@ -11398,5 +11398,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 best 1\u2011week performers (9.31%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-26T21:24:26.526374",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 1,
+    "price": 546.41,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 best 1\u2011week performers (22.50%), short."
+    ]
   }
 ]
