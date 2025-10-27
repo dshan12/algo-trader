@@ -11600,5 +11600,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 4.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-27T21:24:38.809771",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 14,
+    "price": 153.21,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.07%), long."
+    ]
   }
 ]
