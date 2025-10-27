@@ -11540,5 +11540,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-27T21:24:16.355515",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 7,
+    "price": 281.64,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (5.03%), short."
+    ]
   }
 ]
