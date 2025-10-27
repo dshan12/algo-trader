@@ -11590,5 +11590,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.77%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-27T21:24:35.071660",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 7,
+    "price": 531.48,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.1% based on baseline allocation."
+    ]
   }
 ]
