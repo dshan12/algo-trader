@@ -11510,5 +11510,15 @@
     "reason": [
       "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-1.45%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-27T21:24:04.959290",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 7,
+    "price": 357.83,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
