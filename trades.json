@@ -11650,5 +11650,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (8.85%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-28T21:25:31.616036",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 11,
+    "price": 184.18,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
