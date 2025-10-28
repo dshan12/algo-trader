@@ -11751,5 +11751,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-28T21:26:11.121282",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 13,
+    "price": 178.68,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
