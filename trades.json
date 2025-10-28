@@ -11640,5 +11640,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-5.02%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-28T21:25:27.796586",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 5,
+    "price": 372.92,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (8.85%), short."
+    ]
   }
 ]
