@@ -11700,5 +11700,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (8.53%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-28T21:25:51.095557",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 10,
+    "price": 216.93,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
