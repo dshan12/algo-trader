@@ -11731,5 +11731,15 @@
       "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-2.58%), long.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.77%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-28T21:26:02.986209",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 10,
+    "price": 204.5,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 best 1\u2011week performers (10.97%), short."
+    ]
   }
 ]
