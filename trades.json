@@ -11832,5 +11832,15 @@
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (13.93%), short.",
       "Pairs Trading: CAT/TXN spread z\u2011score=4.48, short TXN."
     ]
+  },
+  {
+    "timestamp": "2025-10-29T21:26:13.819952",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 8,
+    "price": 251.42,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
