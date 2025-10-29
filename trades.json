@@ -11902,5 +11902,16 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.77%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-29T21:26:47.482037",
+    "symbol": "LIN",
+    "side": "buy",
+    "qty": 5,
+    "price": 431.89,
+    "reason": [
+      "Weekly Reversal: LIN was among the 10 worst 1\u2011week performers (-3.98%), long.",
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.88%)."
+    ]
   }
 ]
