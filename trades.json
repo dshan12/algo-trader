@@ -11923,5 +11923,15 @@
     "reason": [
       "Low Volatility: MSFT is in the lowest decile of 60\u2011day vol (0.93%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-29T21:26:57.192449",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 2,
+    "price": 1099.67,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
