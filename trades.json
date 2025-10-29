@@ -11943,5 +11943,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-5.40%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-29T21:27:06.697237",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 14,
+    "price": 146.19,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-4.49%), long."
+    ]
   }
 ]
