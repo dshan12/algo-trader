@@ -11872,5 +11872,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-29T21:26:33.226933",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 14,
+    "price": 150.53,
+    "reason": [
+      "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-4.03%), long."
+    ]
   }
 ]
