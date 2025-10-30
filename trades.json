@@ -12114,5 +12114,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:26:13.042887",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 21,
+    "price": 102.235,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
