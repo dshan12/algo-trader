@@ -12054,5 +12054,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (5.25%), short."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:48.228290",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 10,
+    "price": 200.08,
+    "reason": [
+      "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-9.32%), long."
+    ]
   }
 ]
