@@ -12064,5 +12064,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-9.32%), long."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:52.093717",
+    "symbol": "ICE",
+    "side": "sell",
+    "qty": 14,
+    "price": 148.47,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
