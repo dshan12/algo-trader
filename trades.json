@@ -12024,5 +12024,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:36.752590",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 321.95,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-7.03%), long."
+    ]
   }
 ]
