@@ -11984,5 +11984,15 @@
       "Weekly Reversal: TXN was among the 10 worst 1\u2011week performers (-6.12%), long.",
       "Pairs Trading: CAT/TXN spread z\u2011score=4.48, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:21.250615",
+    "symbol": "ADBE",
+    "side": "sell",
+    "qty": 6,
+    "price": 339.2,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
