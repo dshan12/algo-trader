@@ -11994,5 +11994,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:25.319680",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 8,
+    "price": 247.0,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 worst 1\u2011week performers (-19.00%), long."
+    ]
   }
 ]
