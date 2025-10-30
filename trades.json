@@ -12094,5 +12094,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.87%)."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:26:04.897690",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 665.89,
+    "reason": [
+      "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-9.20%), long."
+    ]
   }
 ]
