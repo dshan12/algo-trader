@@ -12074,5 +12074,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-10-30T21:25:55.924544",
+    "symbol": "JPM",
+    "side": "sell",
+    "qty": 6,
+    "price": 309.6,
+    "reason": [
+      "Weekly Reversal: JPM was among the 10 best 1\u2011week performers (5.06%), short."
+    ]
   }
 ]
