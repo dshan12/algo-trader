@@ -12205,5 +12205,15 @@
     "reason": [
       "Weekly Reversal: ICE was among the 10 worst 1\u2011week performers (-7.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-02T21:23:18.214778",
+    "symbol": "JPM",
+    "side": "buy",
+    "qty": 6,
+    "price": 311.11,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
