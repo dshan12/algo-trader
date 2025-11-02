@@ -12237,5 +12237,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 best 1\u2011week performers (4.53%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-02T21:23:32.873717",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 6,
+    "price": 517.815,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.5% based on baseline allocation."
+    ]
   }
 ]
