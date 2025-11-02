@@ -12267,5 +12267,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (5.27%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-02T21:23:46.954742",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 79,
+    "price": 161.47,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 14.3% based on baseline allocation."
+    ]
   }
 ]
