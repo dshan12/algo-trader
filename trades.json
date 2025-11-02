@@ -12185,5 +12185,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -1.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-02T21:23:08.842421",
+    "symbol": "IBM",
+    "side": "buy",
+    "qty": 6,
+    "price": 307.51,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
