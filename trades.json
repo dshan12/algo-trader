@@ -12307,5 +12307,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-8.29%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-03T21:25:22.547116",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 8,
+    "price": 261.38,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (2.30%), short."
+    ]
   }
 ]
