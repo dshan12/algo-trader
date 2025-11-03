@@ -12277,5 +12277,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 14.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-03T21:25:09.917923",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 11,
+    "price": 176.64,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
+    ]
   }
 ]
