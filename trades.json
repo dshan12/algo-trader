@@ -12327,5 +12327,15 @@
     "reason": [
       "Weekly Reversal: CRWD was among the 10 best 1\u2011week performers (4.19%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-03T21:25:30.675123",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 28,
+    "price": 74.475,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (4.29%), short."
+    ]
   }
 ]
