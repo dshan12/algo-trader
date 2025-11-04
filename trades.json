@@ -12477,5 +12477,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -1.8% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:24.045240",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 28,
+    "price": 72.34,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
