@@ -12559,5 +12559,15 @@
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-9.19%), long.",
       "Pairs Trading: GOOGL/NKE spread z\u2011score=3.40, long GOOGL."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:27:03.753076",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 10,
+    "price": 197.52,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
