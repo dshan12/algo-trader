@@ -12457,5 +12457,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 best 1\u2011week performers (1.79%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:14.363025",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 8,
+    "price": 254.465,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
+    ]
   }
 ]
