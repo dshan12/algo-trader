@@ -12437,5 +12437,15 @@
     "reason": [
       "Weekly Reversal: CB was among the 10 best 1\u2011week performers (3.65%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:04.239765",
+    "symbol": "CMCSA",
+    "side": "sell",
+    "qty": 78,
+    "price": 27.45,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.4% based on baseline allocation."
+    ]
   }
 ]
