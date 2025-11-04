@@ -12548,5 +12548,16 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.96%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:58.808588",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 177,
+    "price": 61.22,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-9.19%), long.",
+      "Pairs Trading: GOOGL/NKE spread z\u2011score=3.40, long GOOGL."
+    ]
   }
 ]
