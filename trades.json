@@ -12517,5 +12517,16 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (4.34%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:43.670849",
+    "symbol": "GOOGL",
+    "side": "sell",
+    "qty": 38,
+    "price": 277.43,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (3.76%), short.",
+      "Pairs Trading: GOOGL/NKE spread z\u2011score=3.40, short NKE."
+    ]
   }
 ]
