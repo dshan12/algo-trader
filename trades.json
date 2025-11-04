@@ -12397,5 +12397,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-8.80%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:25:44.929465",
+    "symbol": "ADBE",
+    "side": "buy",
+    "qty": 6,
+    "price": 335.38,
+    "reason": [
+      "Weekly Reversal: ADBE was among the 10 worst 1\u2011week performers (-6.82%), long."
+    ]
   }
 ]
