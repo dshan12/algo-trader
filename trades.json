@@ -12467,5 +12467,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-04T21:26:19.120230",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 3,
+    "price": 533.91,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -1.8% based on baseline allocation."
+    ]
   }
 ]
