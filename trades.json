@@ -12731,5 +12731,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (3.55%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:26:57.646341",
+    "symbol": "HON",
+    "side": "buy",
+    "qty": 2,
+    "price": 196.97,
+    "reason": [
+      "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-7.44%), long."
+    ]
   }
 ]
