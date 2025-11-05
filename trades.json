@@ -12821,5 +12821,15 @@
     "reason": [
       "Pairs Trading: AMD/PEP spread z\u2011score=3.46, long AMD."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:27:34.855864",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 2,
+    "price": 145.73,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
