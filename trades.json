@@ -12711,5 +12711,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-5.43%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:26:49.274044",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 2,
+    "price": 122.57,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (3.44%), short."
+    ]
   }
 ]
