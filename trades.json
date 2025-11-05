@@ -12650,5 +12650,15 @@
       "Weekly Reversal: BRK.B was among the 10 best 1\u2011week performers (2.73%), short.",
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.81%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:26:23.591727",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 4,
+    "price": 569.37,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
