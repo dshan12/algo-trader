@@ -12599,5 +12599,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:26:02.779796",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 9,
+    "price": 259.61,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
