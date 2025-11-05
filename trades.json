@@ -12811,5 +12811,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-5.71%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:27:30.888718",
+    "symbol": "PEP",
+    "side": "buy",
+    "qty": 82,
+    "price": 142.83,
+    "reason": [
+      "Pairs Trading: AMD/PEP spread z\u2011score=3.46, long AMD."
+    ]
   }
 ]
