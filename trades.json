@@ -12619,5 +12619,15 @@
     "reason": [
       "Pairs Trading: AMD/PEP spread z\u2011score=3.46, short PEP."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:26:11.030012",
+    "symbol": "AMZN",
+    "side": "sell",
+    "qty": 1,
+    "price": 250.245,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (8.64%), short."
+    ]
   }
 ]
