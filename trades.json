@@ -12771,5 +12771,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.80%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-05T21:27:14.074847",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 1,
+    "price": 305.78,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.85%)."
+    ]
   }
 ]
