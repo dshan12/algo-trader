@@ -12861,5 +12861,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (9.06%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:25:02.057818",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 3,
+    "price": 355.64,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-5.55%), long."
+    ]
   }
 ]
