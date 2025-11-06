@@ -12841,5 +12841,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-7.75%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:24:53.674327",
+    "symbol": "AMGN",
+    "side": "sell",
+    "qty": 3,
+    "price": 315.51,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (8.08%), short."
+    ]
   }
 ]
