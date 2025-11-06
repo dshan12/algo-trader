@@ -12902,5 +12902,15 @@
     "reason": [
       "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.77%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:25:18.648735",
+    "symbol": "CVS",
+    "side": "sell",
+    "qty": 40,
+    "price": 78.64,
+    "reason": [
+      "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (2.57%), short."
+    ]
   }
 ]
