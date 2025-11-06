@@ -13112,5 +13112,15 @@
     "reason": [
       "Weekly Reversal: PM was among the 10 best 1\u2011week performers (2.84%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:26:45.074784",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 2,
+    "price": 321.73,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-6.73%), long."
+    ]
   }
 ]
