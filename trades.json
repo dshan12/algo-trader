@@ -12892,5 +12892,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:25:14.487491",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 13,
+    "price": 239.31,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-6.77%), long."
+    ]
   }
 ]
