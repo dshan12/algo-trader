@@ -13052,5 +13052,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-7.13%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:26:20.225378",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 2,
+    "price": 497.315,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-5.45%), long."
+    ]
   }
 ]
