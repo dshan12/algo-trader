@@ -12952,5 +12952,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (4.19%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:25:39.623787",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 8,
+    "price": 285.35,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
+    ]
   }
 ]
