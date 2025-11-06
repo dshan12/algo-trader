@@ -13082,5 +13082,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-7.30%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-06T21:26:32.650063",
+    "symbol": "PEP",
+    "side": "sell",
+    "qty": 59,
+    "price": 141.6,
+    "reason": [
+      "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-4.05%), long."
+    ]
   }
 ]
