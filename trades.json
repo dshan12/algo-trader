@@ -13183,5 +13183,15 @@
       "Weekly Reversal: CME was among the 10 best 1\u2011week performers (4.15%), short.",
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:09.709036",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 3,
+    "price": 239.84,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-7.88%), long."
+    ]
   }
 ]
