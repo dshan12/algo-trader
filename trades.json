@@ -13162,5 +13162,15 @@
     "reason": [
       "Pairs Trading: CAT/NKE spread z\u2011score=3.29, short NKE."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:01.129247",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 8,
+    "price": 287.56,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (3.83%), short."
+    ]
   }
 ]
