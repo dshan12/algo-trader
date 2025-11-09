@@ -13203,5 +13203,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:17.747555",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 12,
+    "price": 110.72,
+    "reason": [
+      "Low Volatility: DIS is in the lowest decile of 60\u2011day vol (0.92%)."
+    ]
   }
 ]
