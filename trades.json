@@ -13213,5 +13213,15 @@
     "reason": [
       "Low Volatility: DIS is in the lowest decile of 60\u2011day vol (0.92%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:21.855160",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 25,
+    "price": 118.81,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
