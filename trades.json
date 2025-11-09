@@ -13152,5 +13152,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-5.46%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:22:57.119930",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 21,
+    "price": 563.17,
+    "reason": [
+      "Pairs Trading: CAT/NKE spread z\u2011score=3.29, short NKE."
+    ]
   }
 ]
