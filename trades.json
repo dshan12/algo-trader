@@ -13283,5 +13283,15 @@
     "reason": [
       "Weekly Reversal: META was among the 10 worst 1\u2011week performers (-4.11%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:50.531000",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 6,
+    "price": 497.66,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
