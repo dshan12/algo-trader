@@ -13374,5 +13374,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-5.08%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:24:27.508377",
+    "symbol": "XOM",
+    "side": "sell",
+    "qty": 20,
+    "price": 117.255,
+    "reason": [
+      "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (2.50%), short."
+    ]
   }
 ]
