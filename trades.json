@@ -13293,5 +13293,16 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-09T21:23:54.632299",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 182,
+    "price": 61.06,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-5.42%), long.",
+      "Pairs Trading: CAT/NKE spread z\u2011score=3.29, long CAT."
+    ]
   }
 ]
