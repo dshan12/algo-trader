@@ -13384,5 +13384,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (2.50%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-10T21:26:19.583760",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 30,
+    "price": 125.915,
+    "reason": [
+      "Low Volatility: ABT is in the lowest decile of 60\u2011day vol (0.99%)."
+    ]
   }
 ]
