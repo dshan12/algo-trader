@@ -13444,5 +13444,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-3.17%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-10T21:26:43.594855",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 2,
+    "price": 112.24,
+    "reason": [
+      "Low Volatility: DIS is in the lowest decile of 60\u2011day vol (0.94%)."
+    ]
   }
 ]
