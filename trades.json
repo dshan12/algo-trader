@@ -13564,5 +13564,15 @@
     "reason": [
       "Pairs Trading: GOOG/NKE spread z\u2011score=3.54, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2025-11-10T21:27:30.887521",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 1,
+    "price": 199.4,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.78%), long."
+    ]
   }
 ]
