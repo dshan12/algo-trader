@@ -13454,5 +13454,15 @@
     "reason": [
       "Low Volatility: DIS is in the lowest decile of 60\u2011day vol (0.94%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-10T21:26:47.375540",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 7,
+    "price": 303.74,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-3.00%), long."
+    ]
   }
 ]
