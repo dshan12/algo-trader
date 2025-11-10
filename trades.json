@@ -13474,5 +13474,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-3.20%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-10T21:26:54.964899",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 38,
+    "price": 290.55,
+    "reason": [
+      "Pairs Trading: GOOG/NKE spread z\u2011score=3.54, short NKE."
+    ]
   }
 ]
