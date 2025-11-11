@@ -13684,5 +13684,15 @@
     "reason": [
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (0.99%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:26:03.682985",
+    "symbol": "COST",
+    "side": "buy",
+    "qty": 3,
+    "price": 913.59,
+    "reason": [
+      "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-2.86%), long."
+    ]
   }
 ]
