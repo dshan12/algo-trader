@@ -13754,5 +13754,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-2.60%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:26:31.566600",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 18,
+    "price": 122.56,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
