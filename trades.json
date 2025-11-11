@@ -13834,5 +13834,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (0.99%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:27:04.044055",
+    "symbol": "MCD",
+    "side": "buy",
+    "qty": 2,
+    "price": 306.93,
+    "reason": [
+      "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (0.94%)."
+    ]
   }
 ]
