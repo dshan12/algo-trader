@@ -13944,5 +13944,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:27:47.663668",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 32,
+    "price": 86.225,
+    "reason": [
+      "Weekly Reversal: WFC was among the 10 worst 1\u2011week performers (-1.08%), long."
+    ]
   }
 ]
