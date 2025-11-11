@@ -13694,5 +13694,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-2.86%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:26:07.523162",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 1,
+    "price": 244.54,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 worst 1\u2011week performers (-3.91%), long."
+    ]
   }
 ]
