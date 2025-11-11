@@ -13734,5 +13734,15 @@
     "reason": [
       "Low Volatility: DIS is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:26:23.679279",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 7,
+    "price": 315.27,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
