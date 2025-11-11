@@ -13644,5 +13644,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (14.07%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:25:47.672798",
+    "symbol": "BDX",
+    "side": "sell",
+    "qty": 14,
+    "price": 189.05,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 best 1\u2011week performers (5.57%), short."
+    ]
   }
 ]
