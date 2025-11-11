@@ -13614,5 +13614,15 @@
     "reason": [
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (3.92%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:25:35.480193",
+    "symbol": "ABT",
+    "side": "sell",
+    "qty": 30,
+    "price": 126.99,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 4.2% based on baseline allocation."
+    ]
   }
 ]
