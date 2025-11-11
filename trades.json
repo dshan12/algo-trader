@@ -13814,5 +13814,15 @@
     "reason": [
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.87%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-11T21:26:55.943616",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 33,
+    "price": 71.64,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
