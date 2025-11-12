@@ -14044,5 +14044,15 @@
     "reason": [
       "Weekly Reversal: GS was among the 10 best 1\u2011week performers (5.78%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:27:21.222836",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 7,
+    "price": 371.04,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
