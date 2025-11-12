@@ -13974,5 +13974,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (7.59%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:26:54.167240",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 46,
+    "price": 258.32,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -13.3% based on baseline allocation."
+    ]
   }
 ]
