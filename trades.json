@@ -14154,5 +14154,15 @@
     "reason": [
       "Weekly Reversal: TSLA was among the 10 worst 1\u2011week performers (-6.81%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:28:04.920970",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 1,
+    "price": 339.05,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 0.4% based on baseline allocation."
+    ]
   }
 ]
