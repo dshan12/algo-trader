@@ -14034,5 +14034,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:27:17.392626",
+    "symbol": "GS",
+    "side": "sell",
+    "qty": 3,
+    "price": 839.165,
+    "reason": [
+      "Weekly Reversal: GS was among the 10 best 1\u2011week performers (5.78%), short."
+    ]
   }
 ]
