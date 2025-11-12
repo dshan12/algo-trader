@@ -13994,5 +13994,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-2.40%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:27:01.895340",
+    "symbol": "CSX",
+    "side": "sell",
+    "qty": 80,
+    "price": 35.385,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
