@@ -14174,5 +14174,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-12T21:28:12.997323",
+    "symbol": "XOM",
+    "side": "buy",
+    "qty": 22,
+    "price": 118.14,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
