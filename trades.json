@@ -14314,5 +14314,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-2.42%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:26:40.449147",
+    "symbol": "ICE",
+    "side": "buy",
+    "qty": 18,
+    "price": 152.65,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
