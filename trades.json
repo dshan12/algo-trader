@@ -14364,5 +14364,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:27:05.145445",
+    "symbol": "QCOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 174.59,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
