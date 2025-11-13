@@ -14294,5 +14294,15 @@
     "reason": [
       "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-2.18%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:26:30.240796",
+    "symbol": "GS",
+    "side": "buy",
+    "qty": 3,
+    "price": 805.23,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
