@@ -14334,5 +14334,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-3.57%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:26:50.293185",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 4,
+    "price": 610.57,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
