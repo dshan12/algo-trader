@@ -14274,5 +14274,15 @@
     "reason": [
       "Weekly Reversal: DHR was among the 10 best 1\u2011week performers (5.00%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:26:20.418282",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 15,
+    "price": 107.59,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-2.61%), long."
+    ]
   }
 ]
