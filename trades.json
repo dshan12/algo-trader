@@ -14214,5 +14214,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 worst 1\u2011week performers (-4.39%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:25:50.026936",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 5,
+    "price": 553.37,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-2.85%), long."
+    ]
   }
 ]
