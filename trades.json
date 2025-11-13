@@ -14234,5 +14234,15 @@
     "reason": [
       "Weekly Reversal: CI was among the 10 best 1\u2011week performers (5.66%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:26:00.789747",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 3,
+    "price": 925.37,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
