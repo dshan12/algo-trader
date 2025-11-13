@@ -14224,5 +14224,15 @@
     "reason": [
       "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-2.85%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:25:55.149587",
+    "symbol": "CI",
+    "side": "sell",
+    "qty": 10,
+    "price": 270.99,
+    "reason": [
+      "Weekly Reversal: CI was among the 10 best 1\u2011week performers (5.66%), short."
+    ]
   }
 ]
