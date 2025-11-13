@@ -14184,5 +14184,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:25:35.258997",
+    "symbol": "ABT",
+    "side": "buy",
+    "qty": 36,
+    "price": 129.26,
+    "reason": [
+      "Low Volatility: ABT is in the lowest decile of 60\u2011day vol (1.00%)."
+    ]
   }
 ]
