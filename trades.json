@@ -14194,5 +14194,15 @@
     "reason": [
       "Low Volatility: ABT is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-13T21:25:40.089087",
+    "symbol": "ADP",
+    "side": "sell",
+    "qty": 11,
+    "price": 254.58,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
