@@ -14414,5 +14414,15 @@
     "reason": [
       "Weekly Reversal: AXP was among the 10 worst 1\u2011week performers (-3.08%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-16T21:24:11.029629",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 5,
+    "price": 553.905,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
