@@ -14434,5 +14434,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-16T21:24:19.415798",
+    "symbol": "COP",
+    "side": "sell",
+    "qty": 30,
+    "price": 91.39,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.23%), short."
+    ]
   }
 ]
