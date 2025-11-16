@@ -14444,5 +14444,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.23%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-16T21:24:23.688604",
+    "symbol": "GILD",
+    "side": "sell",
+    "qty": 22,
+    "price": 124.975,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (5.20%), short."
+    ]
   }
 ]
