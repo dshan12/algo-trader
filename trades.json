@@ -14514,5 +14514,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.5% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-16T21:24:52.527682",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 42,
+    "price": 64.2,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
