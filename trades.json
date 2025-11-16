@@ -14494,5 +14494,15 @@
     "reason": [
       "Weekly Reversal: JPM was among the 10 worst 1\u2011week performers (-3.37%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-16T21:24:44.561878",
+    "symbol": "LOW",
+    "side": "buy",
+    "qty": 12,
+    "price": 227.82,
+    "reason": [
+      "Weekly Reversal: LOW was among the 10 worst 1\u2011week performers (-2.28%), long."
+    ]
   }
 ]
