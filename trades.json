@@ -14574,5 +14574,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-6.25%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:01.045115",
+    "symbol": "BDX",
+    "side": "buy",
+    "qty": 2,
+    "price": 190.985,
+    "reason": [
+      "Weekly Reversal: BDX was among the 10 best 1\u2011week performers (5.14%), short."
+    ]
   }
 ]
