@@ -14584,5 +14584,15 @@
     "reason": [
       "Weekly Reversal: BDX was among the 10 best 1\u2011week performers (5.14%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:06.340768",
+    "symbol": "BLK",
+    "side": "buy",
+    "qty": 2,
+    "price": 1023.6,
+    "reason": [
+      "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-5.43%), long."
+    ]
   }
 ]
