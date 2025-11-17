@@ -14644,5 +14644,15 @@
     "reason": [
       "Pairs Trading: CRWD/NFLX spread z\u2011score=6.52, short NFLX."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:36.295679",
+    "symbol": "CSCO",
+    "side": "buy",
+    "qty": 5,
+    "price": 77.8,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (7.89%), short."
+    ]
   }
 ]
