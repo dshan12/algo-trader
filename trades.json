@@ -14664,5 +14664,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:46.143372",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 4,
+    "price": 105.7,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-5.84%), long."
+    ]
   }
 ]
