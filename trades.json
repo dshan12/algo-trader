@@ -14704,5 +14704,15 @@
     "reason": [
       "Low Volatility: HD is in the lowest decile of 60\u2011day vol (0.95%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:28:06.376324",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 11,
+    "price": 34.71,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-9.73%), long."
+    ]
   }
 ]
