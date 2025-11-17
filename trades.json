@@ -14544,5 +14544,15 @@
     "reason": [
       "Low Volatility: ABT is in the lowest decile of 60\u2011day vol (1.01%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:26:46.300053",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 11,
+    "price": 241.21,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
