@@ -14786,5 +14786,15 @@
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-90.15%), long.",
       "Pairs Trading: CRWD/NFLX spread z\u2011score=6.52, long CRWD."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:28:47.314138",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 12,
+    "price": 186.67,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-6.25%), long."
+    ]
   }
 ]
