@@ -14654,5 +14654,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (7.89%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:41.151683",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 12,
+    "price": 220.3,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
