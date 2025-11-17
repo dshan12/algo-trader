@@ -14634,5 +14634,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:31.000478",
+    "symbol": "CRWD",
+    "side": "sell",
+    "qty": 21,
+    "price": 529.745,
+    "reason": [
+      "Pairs Trading: CRWD/NFLX spread z\u2011score=6.52, short NFLX."
+    ]
   }
 ]
