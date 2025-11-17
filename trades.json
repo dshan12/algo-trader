@@ -14674,5 +14674,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-5.84%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:51.013686",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 6,
+    "price": 330.85,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (8.93%), short."
+    ]
   }
 ]
