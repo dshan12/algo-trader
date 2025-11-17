@@ -14524,5 +14524,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:26:36.279726",
+    "symbol": "ABBV",
+    "side": "buy",
+    "qty": 1,
+    "price": 233.845,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 best 1\u2011week performers (6.99%), short."
+    ]
   }
 ]
