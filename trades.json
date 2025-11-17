@@ -14594,5 +14594,15 @@
     "reason": [
       "Weekly Reversal: BLK was among the 10 worst 1\u2011week performers (-5.43%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-17T21:27:11.257229",
+    "symbol": "BRK.B",
+    "side": "sell",
+    "qty": 1,
+    "price": 503.4,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.86%)."
+    ]
   }
 ]
