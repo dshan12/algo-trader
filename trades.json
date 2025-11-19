@@ -14896,5 +14896,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.85%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:22:32.920114",
+    "symbol": "CI",
+    "side": "buy",
+    "qty": 8,
+    "price": 271.93,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
