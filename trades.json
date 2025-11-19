@@ -14846,5 +14846,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (1.82%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:22:13.474328",
+    "symbol": "AMZN",
+    "side": "buy",
+    "qty": 3,
+    "price": 223.98,
+    "reason": [
+      "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-8.81%), long."
+    ]
   }
 ]
