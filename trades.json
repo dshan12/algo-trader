@@ -15006,5 +15006,15 @@
     "reason": [
       "Weekly Reversal: GILD was among the 10 best 1\u2011week performers (3.78%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:23:16.009574",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 10,
+    "price": 295.96,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 best 1\u2011week performers (1.93%), short."
+    ]
   }
 ]
