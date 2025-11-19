@@ -14966,5 +14966,15 @@
     "reason": [
       "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-10.27%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:23:00.274459",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 6,
+    "price": 316.35,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.1% based on baseline allocation."
+    ]
   }
 ]
