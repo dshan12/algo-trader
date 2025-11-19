@@ -15036,5 +15036,15 @@
     "reason": [
       "Weekly Reversal: IBM was among the 10 worst 1\u2011week performers (-8.40%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:23:28.102352",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 66,
+    "price": 35.46,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
