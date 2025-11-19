@@ -14856,5 +14856,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 worst 1\u2011week performers (-8.81%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:22:17.444369",
+    "symbol": "AXP",
+    "side": "buy",
+    "qty": 1,
+    "price": 344.57,
+    "reason": [
+      "Weekly Reversal: AXP was among the 10 worst 1\u2011week performers (-7.55%), long."
+    ]
   }
 ]
