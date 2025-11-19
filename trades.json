@@ -14806,5 +14806,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.91%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:21:57.247455",
+    "symbol": "ABBV",
+    "side": "buy",
+    "qty": 10,
+    "price": 232.85,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
