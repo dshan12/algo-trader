@@ -15137,5 +15137,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:24:07.548855",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 5,
+    "price": 407.82,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.7% based on baseline allocation."
+    ]
   }
 ]
