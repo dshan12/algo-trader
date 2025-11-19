@@ -15127,5 +15127,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 best 1\u2011week performers (1.88%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-19T21:24:03.605143",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 8,
+    "price": 146.97,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.90%)."
+    ]
   }
 ]
