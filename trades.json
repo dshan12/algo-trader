@@ -15327,5 +15327,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-20T21:27:02.363502",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 9,
+    "price": 311.54,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
