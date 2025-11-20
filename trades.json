@@ -15297,5 +15297,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-6.38%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-20T21:26:50.727196",
+    "symbol": "NKE",
+    "side": "buy",
+    "qty": 48,
+    "price": 61.45,
+    "reason": [
+      "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-6.97%), long."
+    ]
   }
 ]
