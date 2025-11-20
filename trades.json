@@ -15237,5 +15237,15 @@
     "reason": [
       "Weekly Reversal: DE was among the 10 best 1\u2011week performers (0.62%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-20T21:26:27.077595",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 28,
+    "price": 102.72,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
