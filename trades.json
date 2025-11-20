@@ -15307,5 +15307,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-6.97%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-20T21:26:54.676919",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 18,
+    "price": 159.63,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 worst 1\u2011week performers (-8.54%), long."
+    ]
   }
 ]
