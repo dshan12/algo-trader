@@ -15277,5 +15277,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 worst 1\u2011week performers (-9.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-20T21:26:42.779614",
+    "symbol": "IBM",
+    "side": "sell",
+    "qty": 10,
+    "price": 290.5,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
