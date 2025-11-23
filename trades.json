@@ -15357,5 +15357,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (2.71%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-23T21:24:53.500924",
+    "symbol": "AVGO",
+    "side": "buy",
+    "qty": 8,
+    "price": 339.24,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
+    ]
   }
 ]
