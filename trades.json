@@ -15427,5 +15427,15 @@
     "reason": [
       "Weekly Reversal: GE was among the 10 worst 1\u2011week performers (-5.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-23T21:25:22.216608",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 9,
+    "price": 343.675,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
