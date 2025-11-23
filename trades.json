@@ -15477,5 +15477,15 @@
     "reason": [
       "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-7.46%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-23T21:25:43.201492",
+    "symbol": "NKE",
+    "side": "sell",
+    "qty": 47,
+    "price": 62.8,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
