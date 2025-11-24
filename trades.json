@@ -15577,5 +15577,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-3.27%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-24T21:27:50.587604",
+    "symbol": "DHR",
+    "side": "buy",
+    "qty": 13,
+    "price": 226.93,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
