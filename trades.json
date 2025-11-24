@@ -15687,5 +15687,15 @@
     "reason": [
       "Weekly Reversal: TMO was among the 10 best 1\u2011week performers (3.33%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-24T21:28:33.344708",
+    "symbol": "TXN",
+    "side": "sell",
+    "qty": 18,
+    "price": 161.18,
+    "reason": [
+      "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (4.05%), short."
+    ]
   }
 ]
