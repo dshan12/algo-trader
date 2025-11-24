@@ -15547,5 +15547,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (10.30%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-24T21:27:38.956868",
+    "symbol": "AXP",
+    "side": "sell",
+    "qty": 8,
+    "price": 355.95,
+    "reason": [
+      "Weekly Reversal: AXP was among the 10 best 1\u2011week performers (4.30%), short."
+    ]
   }
 ]
