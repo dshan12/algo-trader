@@ -15627,5 +15627,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 worst 1\u2011week performers (-3.78%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-24T21:28:10.054307",
+    "symbol": "ISRG",
+    "side": "sell",
+    "qty": 5,
+    "price": 568.35,
+    "reason": [
+      "Weekly Reversal: ISRG was among the 10 best 1\u2011week performers (3.98%), short."
+    ]
   }
 ]
