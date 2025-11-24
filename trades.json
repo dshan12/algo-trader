@@ -15657,5 +15657,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 best 1\u2011week performers (8.12%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-24T21:28:21.795972",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 16,
+    "price": 182.835,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
