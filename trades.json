@@ -15787,5 +15787,15 @@
     "reason": [
       "Weekly Reversal: EQIX was among the 10 worst 1\u2011week performers (-3.98%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:40.823271",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 9,
+    "price": 336.67,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
