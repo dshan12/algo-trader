@@ -15757,5 +15757,15 @@
     "reason": [
       "Weekly Reversal: CVX was among the 10 worst 1\u2011week performers (-3.31%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:26.983566",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 2,
+    "price": 103.29,
+    "reason": [
+      "Weekly Reversal: DIS was among the 10 worst 1\u2011week performers (-2.79%), long."
+    ]
   }
 ]
