@@ -15717,5 +15717,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-2.49%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:08.797216",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 32,
+    "price": 86.6,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-3.41%), long."
+    ]
   }
 ]
