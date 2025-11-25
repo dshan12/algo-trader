@@ -15707,5 +15707,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:04.140606",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 104,
+    "price": 26.675,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (-2.49%), long."
+    ]
   }
 ]
