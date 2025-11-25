@@ -15777,5 +15777,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-3.74%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:36.175865",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 3,
+    "price": 748.39,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 worst 1\u2011week performers (-3.98%), long."
+    ]
   }
 ]
