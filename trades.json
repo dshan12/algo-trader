@@ -15917,5 +15917,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:28:39.972624",
+    "symbol": "TMO",
+    "side": "buy",
+    "qty": 5,
+    "price": 597.72,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
