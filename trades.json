@@ -15727,5 +15727,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-3.41%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:27:13.326317",
+    "symbol": "CRM",
+    "side": "sell",
+    "qty": 13,
+    "price": 234.09,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
