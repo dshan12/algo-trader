@@ -15927,5 +15927,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-25T21:28:44.444280",
+    "symbol": "TXN",
+    "side": "buy",
+    "qty": 18,
+    "price": 161.765,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
