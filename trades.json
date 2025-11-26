@@ -16047,5 +16047,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:25:59.867747",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 7,
+    "price": 355.54,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 best 1\u2011week performers (6.27%), short."
+    ]
   }
 ]
