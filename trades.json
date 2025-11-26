@@ -16057,5 +16057,15 @@
     "reason": [
       "Weekly Reversal: HD was among the 10 best 1\u2011week performers (6.27%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:26:04.446643",
+    "symbol": "INTU",
+    "side": "buy",
+    "qty": 4,
+    "price": 628.92,
+    "reason": [
+      "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-3.30%), long."
+    ]
   }
 ]
