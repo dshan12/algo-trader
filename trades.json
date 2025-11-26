@@ -16067,5 +16067,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-3.30%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:26:09.110723",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 5,
+    "price": 574.35,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
