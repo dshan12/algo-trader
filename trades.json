@@ -16017,5 +16017,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-2.96%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:25:46.207574",
+    "symbol": "DIS",
+    "side": "sell",
+    "qty": 27,
+    "price": 103.44,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
