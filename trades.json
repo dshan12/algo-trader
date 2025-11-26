@@ -16107,5 +16107,15 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.36%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:26:27.740344",
+    "symbol": "UNH",
+    "side": "sell",
+    "qty": 8,
+    "price": 329.76,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (6.67%), short."
+    ]
   }
 ]
