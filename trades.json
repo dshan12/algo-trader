@@ -16087,5 +16087,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.7% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:26:18.514638",
+    "symbol": "MSFT",
+    "side": "sell",
+    "qty": 6,
+    "price": 485.33,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
