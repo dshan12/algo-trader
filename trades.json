@@ -15967,5 +15967,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-2.25%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-26T21:25:23.682973",
+    "symbol": "AXP",
+    "side": "buy",
+    "qty": 8,
+    "price": 364.07,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
