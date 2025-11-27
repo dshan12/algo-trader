@@ -16157,5 +16157,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (7.00%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-27T21:25:20.929755",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 7,
+    "price": 355.54,
+    "reason": [
+      "Weekly Reversal: HD was among the 10 best 1\u2011week performers (6.27%), short."
+    ]
   }
 ]
