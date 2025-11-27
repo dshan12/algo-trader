@@ -16127,5 +16127,15 @@
     "reason": [
       "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-2.25%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-27T21:25:09.324621",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 5,
+    "price": 501.4,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-3.66%), long."
+    ]
   }
 ]
