@@ -16147,5 +16147,15 @@
     "reason": [
       "Weekly Reversal: CSCO was among the 10 worst 1\u2011week performers (-2.96%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-27T21:25:17.032575",
+    "symbol": "ELV",
+    "side": "sell",
+    "qty": 8,
+    "price": 338.52,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 best 1\u2011week performers (7.00%), short."
+    ]
   }
 ]
