@@ -16177,5 +16177,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-3.30%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-27T21:25:28.779304",
+    "symbol": "NVDA",
+    "side": "buy",
+    "qty": 15,
+    "price": 180.18,
+    "reason": [
+      "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-3.36%), long."
+    ]
   }
 ]
