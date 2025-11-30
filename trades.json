@@ -16267,5 +16267,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 6.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:25:19.543464",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 19,
+    "price": 151.06,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
