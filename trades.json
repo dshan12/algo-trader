@@ -16327,5 +16327,16 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 worst 1\u2011week performers (-0.53%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:25:41.809962",
+    "symbol": "LIN",
+    "side": "buy",
+    "qty": 6,
+    "price": 410.25,
+    "reason": [
+      "Weekly Reversal: LIN was among the 10 worst 1\u2011week performers (0.44%), long.",
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.02%)."
+    ]
   }
 ]
