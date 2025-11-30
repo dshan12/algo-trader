@@ -16227,5 +16227,15 @@
     "reason": [
       "Weekly Reversal: AMZN was among the 10 best 1\u2011week performers (7.41%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:25:04.044146",
+    "symbol": "CB",
+    "side": "buy",
+    "qty": 9,
+    "price": 296.13,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 worst 1\u2011week performers (-0.05%), long."
+    ]
   }
 ]
