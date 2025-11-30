@@ -16197,5 +16197,15 @@
     "reason": [
       "Weekly Reversal: UNH was among the 10 best 1\u2011week performers (6.67%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:24:52.821740",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 11,
+    "price": 227.77,
+    "reason": [
+      "Weekly Reversal: ABBV was among the 10 worst 1\u2011week performers (-0.76%), long."
+    ]
   }
 ]
