@@ -16237,5 +16237,15 @@
     "reason": [
       "Weekly Reversal: CB was among the 10 worst 1\u2011week performers (-0.05%), long."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:25:07.752790",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 105,
+    "price": 26.7,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 worst 1\u2011week performers (0.23%), long."
+    ]
   }
 ]
