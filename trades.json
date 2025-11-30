@@ -16399,5 +16399,15 @@
     "reason": [
       "Weekly Reversal: TXN was among the 10 best 1\u2011week performers (9.74%), short."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:26:07.517730",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 16,
+    "price": 329.705,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -5.9% based on baseline allocation."
+    ]
   }
 ]
