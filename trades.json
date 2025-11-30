@@ -16379,5 +16379,15 @@
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-0.02%), long.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.98%)."
     ]
+  },
+  {
+    "timestamp": "2025-11-30T21:26:00.167117",
+    "symbol": "TSLA",
+    "side": "sell",
+    "qty": 6,
+    "price": 430.14,
+    "reason": [
+      "Weekly Reversal: TSLA was among the 10 best 1\u2011week performers (8.84%), short."
+    ]
   }
 ]
