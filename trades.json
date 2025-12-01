@@ -16520,5 +16520,15 @@
       "Weekly Reversal: MCD was among the 10 worst 1\u2011week performers (-1.87%), long.",
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-01T21:25:26.330207",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 27,
+    "price": 101.84,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
