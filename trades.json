@@ -16530,5 +16530,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-01T21:25:30.920676",
+    "symbol": "NVDA",
+    "side": "sell",
+    "qty": 16,
+    "price": 180.5,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.2% based on baseline allocation."
+    ]
   }
 ]
