@@ -16701,5 +16701,15 @@
     "reason": [
       "Weekly Reversal: LLY was among the 10 worst 1\u2011week performers (-2.25%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-02T21:28:37.425621",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 18,
+    "price": 145.88,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (0.98%)."
+    ]
   }
 ]
