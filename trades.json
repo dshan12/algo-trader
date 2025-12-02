@@ -16570,5 +16570,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (7.14%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-02T21:27:41.482249",
+    "symbol": "AMD",
+    "side": "buy",
+    "qty": 12,
+    "price": 214.96,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
+    ]
   }
 ]
