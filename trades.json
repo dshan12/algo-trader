@@ -16831,5 +16831,15 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 best 1\u2011week performers (5.73%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:26:12.815828",
+    "symbol": "EQIX",
+    "side": "sell",
+    "qty": 3,
+    "price": 732.92,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
