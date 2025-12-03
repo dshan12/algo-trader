@@ -16901,5 +16901,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:26:40.630543",
+    "symbol": "MRK",
+    "side": "buy",
+    "qty": 27,
+    "price": 102.26,
+    "reason": [
+      "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-3.21%), long."
+    ]
   }
 ]
