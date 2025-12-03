@@ -16761,5 +16761,15 @@
     "reason": [
       "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (5.56%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:25:44.453044",
+    "symbol": "AMT",
+    "side": "sell",
+    "qty": 15,
+    "price": 176.18,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
+    ]
   }
 ]
