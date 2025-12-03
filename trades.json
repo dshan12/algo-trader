@@ -16911,5 +16911,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-3.21%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:26:44.644982",
+    "symbol": "PM",
+    "side": "buy",
+    "qty": 18,
+    "price": 151.74,
+    "reason": [
+      "Weekly Reversal: PM was among the 10 worst 1\u2011week performers (-3.62%), long."
+    ]
   }
 ]
