@@ -16731,5 +16731,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:25:31.918744",
+    "symbol": "ABBV",
+    "side": "sell",
+    "qty": 13,
+    "price": 230.34,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.4% based on baseline allocation."
+    ]
   }
 ]
