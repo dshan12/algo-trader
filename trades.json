@@ -16781,5 +16781,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -0.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-03T21:25:52.640559",
+    "symbol": "CAT",
+    "side": "buy",
+    "qty": 4,
+    "price": 591.625,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.7% based on baseline allocation."
+    ]
   }
 ]
