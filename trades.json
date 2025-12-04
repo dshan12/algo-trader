@@ -17011,5 +17011,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-04T21:28:22.254712",
+    "symbol": "EQIX",
+    "side": "buy",
+    "qty": 3,
+    "price": 726.03,
+    "reason": [
+      "Weekly Reversal: EQIX was among the 10 worst 1\u2011week performers (-3.24%), long."
+    ]
   }
 ]
