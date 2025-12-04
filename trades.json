@@ -17051,5 +17051,15 @@
     "reason": [
       "Weekly Reversal: INTU was among the 10 best 1\u2011week performers (5.40%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-04T21:28:37.838526",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 1,
+    "price": 662.17,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -0.7% based on baseline allocation."
+    ]
   }
 ]
