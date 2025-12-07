@@ -17101,5 +17101,15 @@
     "reason": [
       "Weekly Reversal: ADBE was among the 10 best 1\u2011week performers (8.16%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:23:54.471800",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 6,
+    "price": 329.84,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-4.51%), long."
+    ]
   }
 ]
