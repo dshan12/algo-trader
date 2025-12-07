@@ -17111,5 +17111,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-4.51%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:23:58.338269",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 7,
+    "price": 390.56,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
+    ]
   }
 ]
