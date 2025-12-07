@@ -17242,5 +17242,15 @@
     "reason": [
       "Pairs Trading: GOOG/HD spread z\u2011score=3.45, short HD."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:24:47.657902",
+    "symbol": "HD",
+    "side": "buy",
+    "qty": 29,
+    "price": 354.675,
+    "reason": [
+      "Pairs Trading: GOOG/HD spread z\u2011score=3.45, long GOOG."
+    ]
   }
 ]
