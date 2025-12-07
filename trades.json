@@ -17252,5 +17252,15 @@
     "reason": [
       "Pairs Trading: GOOG/HD spread z\u2011score=3.45, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:24:51.406683",
+    "symbol": "INTC",
+    "side": "buy",
+    "qty": 68,
+    "price": 41.41,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
