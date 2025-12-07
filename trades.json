@@ -17232,5 +17232,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:24:43.860528",
+    "symbol": "GOOG",
+    "side": "sell",
+    "qty": 32,
+    "price": 322.15,
+    "reason": [
+      "Pairs Trading: GOOG/HD spread z\u2011score=3.45, short HD."
+    ]
   }
 ]
