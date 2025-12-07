@@ -17172,5 +17172,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (5.64%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:24:21.184289",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 2,
+    "price": 260.53,
+    "reason": [
+      "Weekly Reversal: CRM was among the 10 best 1\u2011week performers (13.03%), short."
+    ]
   }
 ]
