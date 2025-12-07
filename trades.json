@@ -17313,5 +17313,15 @@
     "reason": [
       "Weekly Reversal: MRK was among the 10 worst 1\u2011week performers (-4.87%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-07T21:25:14.641852",
+    "symbol": "NFLX",
+    "side": "buy",
+    "qty": 20,
+    "price": 100.245,
+    "reason": [
+      "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-6.82%), long."
+    ]
   }
 ]
