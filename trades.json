@@ -17524,5 +17524,15 @@
     "reason": [
       "Pairs Trading: GOOG/MA spread z\u2011score=2.73, long GOOG."
     ]
+  },
+  {
+    "timestamp": "2025-12-08T21:25:44.083887",
+    "symbol": "META",
+    "side": "sell",
+    "qty": 3,
+    "price": 667.26,
+    "reason": [
+      "Weekly Reversal: META was among the 10 best 1\u2011week performers (4.05%), short."
+    ]
   }
 ]
