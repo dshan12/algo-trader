@@ -17403,5 +17403,15 @@
     "reason": [
       "Weekly Reversal: ABT was among the 10 worst 1\u2011week performers (-4.62%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-08T21:24:59.279151",
+    "symbol": "ACN",
+    "side": "buy",
+    "qty": 8,
+    "price": 266.83,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
