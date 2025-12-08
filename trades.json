@@ -17423,5 +17423,15 @@
     "reason": [
       "Low Volatility: CB is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-08T21:25:06.827046",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 22,
+    "price": 92.89,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
