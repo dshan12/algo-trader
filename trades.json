@@ -17786,5 +17786,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-11.56%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-09T21:29:21.369436",
+    "symbol": "PM",
+    "side": "sell",
+    "qty": 15,
+    "price": 150.35,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.6% based on baseline allocation."
+    ]
   }
 ]
