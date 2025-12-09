@@ -17826,5 +17826,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-09T21:30:17.082093",
+    "symbol": "WFC",
+    "side": "buy",
+    "qty": 24,
+    "price": 88.93,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
