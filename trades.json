@@ -17654,5 +17654,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 best 1\u2011week performers (4.64%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-09T21:27:28.620815",
+    "symbol": "CSCO",
+    "side": "sell",
+    "qty": 27,
+    "price": 79.52,
+    "reason": [
+      "Weekly Reversal: CSCO was among the 10 best 1\u2011week performers (3.43%), short."
+    ]
   }
 ]
