@@ -17604,5 +17604,15 @@
     "reason": [
       "Weekly Reversal: ACN was among the 10 best 1\u2011week performers (3.26%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-09T21:27:04.557380",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 1,
+    "price": 313.86,
+    "reason": [
+      "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-7.24%), long."
+    ]
   }
 ]
