@@ -17996,5 +17996,15 @@
     "reason": [
       "Weekly Reversal: CVS was among the 10 best 1\u2011week performers (5.29%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:33:00.738414",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 7,
+    "price": 353.51,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (5.33%), short."
+    ]
   }
 ]
