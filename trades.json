@@ -18006,5 +18006,15 @@
     "reason": [
       "Weekly Reversal: ETN was among the 10 best 1\u2011week performers (5.33%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:33:05.408704",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 4,
+    "price": 121.395,
+    "reason": [
+      "Weekly Reversal: GILD was among the 10 worst 1\u2011week performers (-2.93%), long."
+    ]
   }
 ]
