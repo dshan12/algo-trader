@@ -18127,5 +18127,15 @@
     "reason": [
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-4.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:34:01.133522",
+    "symbol": "QCOM",
+    "side": "sell",
+    "qty": 15,
+    "price": 182.22,
+    "reason": [
+      "Weekly Reversal: QCOM was among the 10 best 1\u2011week performers (4.08%), short."
+    ]
   }
 ]
