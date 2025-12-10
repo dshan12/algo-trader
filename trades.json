@@ -18046,5 +18046,15 @@
     "reason": [
       "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-6.81%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:33:23.574521",
+    "symbol": "JNJ",
+    "side": "buy",
+    "qty": 4,
+    "price": 206.54,
+    "reason": [
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.96%)."
+    ]
   }
 ]
