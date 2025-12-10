@@ -17876,5 +17876,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-8.70%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:32:03.585199",
+    "symbol": "AVGO",
+    "side": "sell",
+    "qty": 1,
+    "price": 410.1,
+    "reason": [
+      "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (8.50%), short."
+    ]
   }
 ]
