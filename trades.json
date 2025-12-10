@@ -18117,5 +18117,15 @@
     "reason": [
       "Weekly Reversal: NFLX was among the 10 worst 1\u2011week performers (-10.82%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-10T21:33:56.607199",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 3,
+    "price": 139.785,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-4.70%), long."
+    ]
   }
 ]
