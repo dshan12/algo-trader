@@ -18218,5 +18218,15 @@
       "Weekly Reversal: CAT was among the 10 best 1\u2011week performers (4.42%), short.",
       "Pairs Trading: CAT/HD spread z\u2011score=3.33, short HD."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:31:22.117674",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 15,
+    "price": 305.97,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 5.2% based on baseline allocation."
+    ]
   }
 ]
