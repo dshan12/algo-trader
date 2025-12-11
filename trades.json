@@ -18389,5 +18389,15 @@
     "reason": [
       "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.05%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:32:30.730635",
+    "symbol": "LLY",
+    "side": "sell",
+    "qty": 2,
+    "price": 1009.24,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.3% based on baseline allocation."
+    ]
   }
 ]
