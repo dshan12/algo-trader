@@ -18379,5 +18379,15 @@
       "Weekly Reversal: KO was among the 10 worst 1\u2011week performers (-1.90%), long.",
       "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:32:26.999038",
+    "symbol": "LIN",
+    "side": "sell",
+    "qty": 9,
+    "price": 403.33,
+    "reason": [
+      "Low Volatility: LIN is in the lowest decile of 60\u2011day vol (1.05%)."
+    ]
   }
 ]
