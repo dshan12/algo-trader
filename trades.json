@@ -18248,5 +18248,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:31:33.215175",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 28,
+    "price": 96.73,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
