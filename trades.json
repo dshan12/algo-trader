@@ -18338,5 +18338,15 @@
     "reason": [
       "Pairs Trading: CAT/HD spread z\u2011score=3.33, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:32:11.670068",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 14,
+    "price": 39.505,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-2.44%), long."
+    ]
   }
 ]
