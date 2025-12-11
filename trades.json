@@ -18440,5 +18440,15 @@
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-3.16%), long.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:32:49.816489",
+    "symbol": "QCOM",
+    "side": "buy",
+    "qty": 14,
+    "price": 181.28,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
