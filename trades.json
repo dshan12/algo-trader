@@ -18228,5 +18228,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 5.2% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-11T21:31:25.821780",
+    "symbol": "CME",
+    "side": "sell",
+    "qty": 3,
+    "price": 272.33,
+    "reason": [
+      "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.07%)."
+    ]
   }
 ]
