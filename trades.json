@@ -18550,5 +18550,15 @@
     "reason": [
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.07%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-14T21:27:00.201300",
+    "symbol": "CRM",
+    "side": "buy",
+    "qty": 8,
+    "price": 262.23,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.4% based on baseline allocation."
+    ]
   }
 ]
