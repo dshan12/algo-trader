@@ -18510,5 +18510,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 worst 1\u2011week performers (-3.68%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-14T21:26:40.918194",
+    "symbol": "BRK.B",
+    "side": "buy",
+    "qty": 2,
+    "price": 499.51,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.83%)."
+    ]
   }
 ]
