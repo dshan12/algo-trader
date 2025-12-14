@@ -18650,5 +18650,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.0% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-14T21:27:48.738706",
+    "symbol": "HD",
+    "side": "sell",
+    "qty": 29,
+    "price": 359.63,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 11.7% based on baseline allocation."
+    ]
   }
 ]
