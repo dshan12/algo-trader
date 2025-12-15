@@ -18901,5 +18901,15 @@
     "reason": [
       "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.09%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-15T21:30:31.537737",
+    "symbol": "DIS",
+    "side": "buy",
+    "qty": 26,
+    "price": 110.455,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.2% based on baseline allocation."
+    ]
   }
 ]
