@@ -19022,5 +19022,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-15T21:31:31.273682",
+    "symbol": "MSFT",
+    "side": "buy",
+    "qty": 6,
+    "price": 474.74,
+    "reason": [
+      "Weekly Reversal: MSFT was among the 10 worst 1\u2011week performers (-3.30%), long."
+    ]
   }
 ]
