@@ -18871,5 +18871,15 @@
     "reason": [
       "Weekly Reversal: COST was among the 10 worst 1\u2011week performers (-3.04%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-15T21:30:16.595238",
+    "symbol": "CRWD",
+    "side": "buy",
+    "qty": 6,
+    "price": 487.5,
+    "reason": [
+      "Weekly Reversal: CRWD was among the 10 worst 1\u2011week performers (-5.38%), long."
+    ]
   }
 ]
