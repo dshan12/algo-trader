@@ -19152,5 +19152,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.06%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-16T21:30:15.835857",
+    "symbol": "RTX",
+    "side": "buy",
+    "qty": 16,
+    "price": 179.81,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
