@@ -19132,5 +19132,15 @@
     "reason": [
       "Weekly Reversal: MA was among the 10 best 1\u2011week performers (5.30%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-16T21:30:06.345045",
+    "symbol": "NFLX",
+    "side": "sell",
+    "qty": 31,
+    "price": 94.64,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
+    ]
   }
 ]
