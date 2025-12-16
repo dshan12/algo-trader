@@ -19082,5 +19082,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 best 1\u2011week performers (10.97%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-16T21:29:42.291747",
+    "symbol": "GOOGL",
+    "side": "buy",
+    "qty": 9,
+    "price": 306.38,
+    "reason": [
+      "Weekly Reversal: GOOGL was among the 10 worst 1\u2011week performers (-3.31%), long."
+    ]
   }
 ]
