@@ -19182,5 +19182,16 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.87%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:29:52.222390",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 16,
+    "price": 561.885,
+    "reason": [
+      "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-8.69%), long.",
+      "Pairs Trading: CAT/ETN spread z\u2011score=2.98, short ETN."
+    ]
   }
 ]
