@@ -19324,5 +19324,15 @@
     "reason": [
       "Weekly Reversal: HON was among the 10 best 1\u2011week performers (4.08%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:30:53.017804",
+    "symbol": "INTC",
+    "side": "sell",
+    "qty": 10,
+    "price": 36.07,
+    "reason": [
+      "Weekly Reversal: INTC was among the 10 worst 1\u2011week performers (-11.60%), long."
+    ]
   }
 ]
