@@ -19263,5 +19263,15 @@
     "reason": [
       "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.14%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:30:27.020375",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 8,
+    "price": 345.9,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
