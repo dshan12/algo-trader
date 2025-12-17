@@ -19384,5 +19384,16 @@
     "reason": [
       "Weekly Reversal: NVDA was among the 10 worst 1\u2011week performers (-6.99%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:31:19.065427",
+    "symbol": "PG",
+    "side": "sell",
+    "qty": 21,
+    "price": 147.81,
+    "reason": [
+      "Weekly Reversal: PG was among the 10 best 1\u2011week performers (5.71%), short.",
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
