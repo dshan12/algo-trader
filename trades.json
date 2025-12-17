@@ -19233,5 +19233,15 @@
     "reason": [
       "Weekly Reversal: CMCSA was among the 10 best 1\u2011week performers (9.93%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:30:13.987636",
+    "symbol": "COST",
+    "side": "sell",
+    "qty": 3,
+    "price": 862.65,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
