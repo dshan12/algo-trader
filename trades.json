@@ -19172,5 +19172,15 @@
     "reason": [
       "Weekly Reversal: AMD was among the 10 worst 1\u2011week performers (-10.53%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:29:47.961398",
+    "symbol": "BRK.B",
+    "side": "sell",
+    "qty": 2,
+    "price": 504.35,
+    "reason": [
+      "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.87%)."
+    ]
   }
 ]
