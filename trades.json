@@ -19294,5 +19294,15 @@
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-10.65%), long.",
       "Pairs Trading: CAT/ETN spread z\u2011score=2.98, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:30:40.042698",
+    "symbol": "GOOG",
+    "side": "buy",
+    "qty": 7,
+    "price": 298.01,
+    "reason": [
+      "Weekly Reversal: GOOG was among the 10 worst 1\u2011week performers (-7.15%), long."
+    ]
   }
 ]
