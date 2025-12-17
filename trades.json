@@ -19193,5 +19193,15 @@
       "Weekly Reversal: CAT was among the 10 worst 1\u2011week performers (-8.69%), long.",
       "Pairs Trading: CAT/ETN spread z\u2011score=2.98, short ETN."
     ]
+  },
+  {
+    "timestamp": "2025-12-17T21:29:56.412914",
+    "symbol": "CB",
+    "side": "sell",
+    "qty": 7,
+    "price": 312.92,
+    "reason": [
+      "Weekly Reversal: CB was among the 10 best 1\u2011week performers (5.54%), short."
+    ]
   }
 ]
