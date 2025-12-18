@@ -19435,5 +19435,15 @@
     "reason": [
       "Weekly Reversal: AMGN was among the 10 best 1\u2011week performers (2.22%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-18T21:25:20.427873",
+    "symbol": "AMT",
+    "side": "buy",
+    "qty": 14,
+    "price": 174.28,
+    "reason": [
+      "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-4.08%), long."
+    ]
   }
 ]
