@@ -19496,5 +19496,15 @@
     "reason": [
       "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-4.63%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-18T21:25:44.330584",
+    "symbol": "CVX",
+    "side": "buy",
+    "qty": 1,
+    "price": 147.7,
+    "reason": [
+      "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.14%)."
+    ]
   }
 ]
