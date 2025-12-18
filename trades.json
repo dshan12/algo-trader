@@ -19506,5 +19506,15 @@
     "reason": [
       "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.14%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-18T21:25:48.251554",
+    "symbol": "ELV",
+    "side": "buy",
+    "qty": 7,
+    "price": 344.61,
+    "reason": [
+      "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-4.34%), long."
+    ]
   }
 ]
