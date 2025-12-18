@@ -19527,5 +19527,15 @@
       "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-9.82%), long.",
       "Pairs Trading: CAT/ETN spread z\u2011score=2.99, long CAT."
     ]
+  },
+  {
+    "timestamp": "2025-12-18T21:25:56.199341",
+    "symbol": "GE",
+    "side": "sell",
+    "qty": 8,
+    "price": 301.77,
+    "reason": [
+      "Weekly Reversal: GE was among the 10 best 1\u2011week performers (4.60%), short."
+    ]
   }
 ]
