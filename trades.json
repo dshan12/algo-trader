@@ -19668,5 +19668,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-21T21:26:27.728273",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 11,
+    "price": 213.44,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.9% based on baseline allocation."
+    ]
   }
 ]
