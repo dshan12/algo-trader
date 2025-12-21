@@ -19748,5 +19748,16 @@
     "reason": [
       "Weekly Reversal: EOG was among the 10 worst 1\u2011week performers (-5.63%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-21T21:27:01.650942",
+    "symbol": "ETN",
+    "side": "sell",
+    "qty": 6,
+    "price": 317.75,
+    "reason": [
+      "Weekly Reversal: ETN was among the 10 worst 1\u2011week performers (-4.27%), long.",
+      "Pairs Trading: CAT/ETN spread z\u2011score=3.07, long CAT."
+    ]
   }
 ]
