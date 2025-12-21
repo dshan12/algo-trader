@@ -19869,5 +19869,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-12.98%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-21T21:27:55.123908",
+    "symbol": "PG",
+    "side": "buy",
+    "qty": 12,
+    "price": 144.37,
+    "reason": [
+      "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
