@@ -19708,5 +19708,15 @@
     "reason": [
       "Low Volatility: CME is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-21T21:26:45.072614",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 9,
+    "price": 29.56,
+    "reason": [
+      "Weekly Reversal: CMCSA was among the 10 best 1\u2011week performers (8.59%), short."
+    ]
   }
 ]
