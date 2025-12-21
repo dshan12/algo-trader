@@ -19688,5 +19688,15 @@
     "reason": [
       "Weekly Reversal: AMT was among the 10 worst 1\u2011week performers (-4.59%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-21T21:26:36.255337",
+    "symbol": "CAT",
+    "side": "sell",
+    "qty": 1,
+    "price": 576.16,
+    "reason": [
+      "Pairs Trading: CAT/ETN spread z\u2011score=3.07, short ETN."
+    ]
   }
 ]
