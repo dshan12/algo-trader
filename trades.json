@@ -20190,5 +20190,15 @@
     "reason": [
       "Weekly Reversal: NKE was among the 10 worst 1\u2011week performers (-15.58%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:29:14.379841",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 109,
+    "price": 25.21,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-4.62%), long."
+    ]
   }
 ]
