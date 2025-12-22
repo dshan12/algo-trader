@@ -20210,5 +20210,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:29:21.641805",
+    "symbol": "UNH",
+    "side": "buy",
+    "qty": 2,
+    "price": 325.16,
+    "reason": [
+      "Weekly Reversal: UNH was among the 10 worst 1\u2011week performers (-4.67%), long."
+    ]
   }
 ]
