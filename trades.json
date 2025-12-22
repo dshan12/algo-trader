@@ -20160,5 +20160,15 @@
     "reason": [
       "Low Volatility: MCD is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:29:03.462452",
+    "symbol": "META",
+    "side": "buy",
+    "qty": 3,
+    "price": 661.3,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.2% based on baseline allocation."
+    ]
   }
 ]
