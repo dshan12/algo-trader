@@ -20130,5 +20130,15 @@
       "Weekly Reversal: JNJ was among the 10 worst 1\u2011week performers (-3.20%), long.",
       "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (1.00%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:28:52.600684",
+    "symbol": "KO",
+    "side": "buy",
+    "qty": 15,
+    "price": 70.195,
+    "reason": [
+      "Low Volatility: KO is in the lowest decile of 60\u2011day vol (1.08%)."
+    ]
   }
 ]
