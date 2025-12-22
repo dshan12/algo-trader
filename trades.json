@@ -19909,5 +19909,15 @@
     "reason": [
       "Low Volatility: AAPL is in the lowest decile of 60\u2011day vol (1.13%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:27:31.501146",
+    "symbol": "AMGN",
+    "side": "buy",
+    "qty": 7,
+    "price": 331.45,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.6% based on baseline allocation."
+    ]
   }
 ]
