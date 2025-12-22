@@ -20039,5 +20039,15 @@
     "reason": [
       "Weekly Reversal: ELV was among the 10 worst 1\u2011week performers (-4.55%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-22T21:28:19.702369",
+    "symbol": "EOG",
+    "side": "sell",
+    "qty": 21,
+    "price": 103.405,
+    "reason": [
+      "Rebalance: Moving down toward target weight 0.0% from current 2.5% based on baseline allocation."
+    ]
   }
 ]
