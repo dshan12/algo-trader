@@ -20510,5 +20510,15 @@
     "reason": [
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-23T21:30:24.971824",
+    "symbol": "RTX",
+    "side": "sell",
+    "qty": 15,
+    "price": 185.78,
+    "reason": [
+      "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (3.24%), short."
+    ]
   }
 ]
