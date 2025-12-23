@@ -20280,5 +20280,15 @@
     "reason": [
       "Low Volatility: BRK.B is in the lowest decile of 60\u2011day vol (0.90%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-23T21:28:34.880573",
+    "symbol": "CMCSA",
+    "side": "buy",
+    "qty": 94,
+    "price": 29.36,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.1% based on baseline allocation."
+    ]
   }
 ]
