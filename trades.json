@@ -20490,5 +20490,15 @@
     "reason": [
       "Weekly Reversal: PEP was among the 10 worst 1\u2011week performers (-4.45%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-23T21:30:15.261204",
+    "symbol": "PFE",
+    "side": "buy",
+    "qty": 9,
+    "price": 24.88,
+    "reason": [
+      "Weekly Reversal: PFE was among the 10 worst 1\u2011week performers (-2.55%), long."
+    ]
   }
 ]
