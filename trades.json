@@ -20520,5 +20520,15 @@
     "reason": [
       "Weekly Reversal: RTX was among the 10 best 1\u2011week performers (3.24%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-23T21:30:29.758265",
+    "symbol": "TSLA",
+    "side": "buy",
+    "qty": 5,
+    "price": 485.09,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -2.8% based on baseline allocation."
+    ]
   }
 ]
