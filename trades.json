@@ -20621,5 +20621,15 @@
     "reason": [
       "Low Volatility: CSX is in the lowest decile of 60\u2011day vol (1.08%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-24T21:27:51.766906",
+    "symbol": "CVX",
+    "side": "sell",
+    "qty": 1,
+    "price": 150.575,
+    "reason": [
+      "Low Volatility: CVX is in the lowest decile of 60\u2011day vol (1.10%)."
+    ]
   }
 ]
