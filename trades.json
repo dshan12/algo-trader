@@ -20641,5 +20641,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.1% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-24T21:27:59.848688",
+    "symbol": "GILD",
+    "side": "buy",
+    "qty": 23,
+    "price": 125.675,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
