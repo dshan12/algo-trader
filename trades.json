@@ -20691,5 +20691,15 @@
     "reason": [
       "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-24T21:28:19.715673",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 2,
+    "price": 207.83,
+    "reason": [
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.97%)."
+    ]
   }
 ]
