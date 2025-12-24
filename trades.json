@@ -20681,5 +20681,15 @@
     "reason": [
       "Rebalance: Moving down toward target weight 0.0% from current 3.3% based on baseline allocation."
     ]
+  },
+  {
+    "timestamp": "2025-12-24T21:28:15.654701",
+    "symbol": "ISRG",
+    "side": "buy",
+    "qty": 5,
+    "price": 577.73,
+    "reason": [
+      "Rebalance: Moving up toward target weight 0.0% from current -3.3% based on baseline allocation."
+    ]
   }
 ]
