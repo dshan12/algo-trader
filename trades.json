@@ -20561,5 +20561,15 @@
       "Weekly Reversal: XOM was among the 10 best 1\u2011week performers (4.13%), short.",
       "Low Volatility: XOM is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-24T21:27:27.444958",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 10,
+    "price": 258.13,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-2.78%), long."
+    ]
   }
 ]
