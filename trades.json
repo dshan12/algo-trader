@@ -20822,5 +20822,15 @@
     "reason": [
       "Weekly Reversal: AVGO was among the 10 best 1\u2011week performers (7.42%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-25T21:27:36.032127",
+    "symbol": "COP",
+    "side": "buy",
+    "qty": 30,
+    "price": 91.79,
+    "reason": [
+      "Weekly Reversal: COP was among the 10 worst 1\u2011week performers (-3.33%), long."
+    ]
   }
 ]
