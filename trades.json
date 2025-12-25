@@ -20792,5 +20792,15 @@
     "reason": [
       "Low Volatility: XOM is in the lowest decile of 60\u2011day vol (1.11%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-25T21:27:21.037871",
+    "symbol": "ADP",
+    "side": "buy",
+    "qty": 10,
+    "price": 258.13,
+    "reason": [
+      "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-2.78%), long."
+    ]
   }
 ]
