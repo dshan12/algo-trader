@@ -20802,5 +20802,15 @@
     "reason": [
       "Weekly Reversal: ADP was among the 10 worst 1\u2011week performers (-2.78%), long."
     ]
+  },
+  {
+    "timestamp": "2025-12-25T21:27:26.155778",
+    "symbol": "AMD",
+    "side": "sell",
+    "qty": 12,
+    "price": 215.05,
+    "reason": [
+      "Weekly Reversal: AMD was among the 10 best 1\u2011week performers (8.55%), short."
+    ]
   }
 ]
