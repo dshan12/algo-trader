@@ -20872,5 +20872,15 @@
     "reason": [
       "Weekly Reversal: GOOGL was among the 10 best 1\u2011week performers (5.85%), short."
     ]
+  },
+  {
+    "timestamp": "2025-12-25T21:28:01.630079",
+    "symbol": "JNJ",
+    "side": "sell",
+    "qty": 2,
+    "price": 207.83,
+    "reason": [
+      "Low Volatility: JNJ is in the lowest decile of 60\u2011day vol (0.97%)."
+    ]
   }
 ]
