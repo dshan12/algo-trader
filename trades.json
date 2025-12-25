@@ -20933,5 +20933,15 @@
       "Weekly Reversal: PG was among the 10 worst 1\u2011week performers (-2.25%), long.",
       "Low Volatility: PG is in the lowest decile of 60\u2011day vol (1.12%)."
     ]
+  },
+  {
+    "timestamp": "2025-12-25T21:28:31.489108",
+    "symbol": "WMT",
+    "side": "sell",
+    "qty": 1,
+    "price": 111.57,
+    "reason": [
+      "Weekly Reversal: WMT was among the 10 worst 1\u2011week performers (-3.50%), long."
+    ]
   }
 ]
